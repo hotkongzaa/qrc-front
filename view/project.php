@@ -84,7 +84,7 @@
                                                     <li class="current"><a href="project" class="dropdown-toggle">Project</a>
                                                     </li>
 
-                                                    <li><a href="contact-us.html">Contact Us</a></li>
+                                                    <li><a href="contact-us">Contact Us</a></li>
                                                 </ul>
                                                 <div class="clearfix"></div>
                                             </div>

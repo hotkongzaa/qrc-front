@@ -623,15 +623,15 @@
                             <div class="slide-item">
                                 <a href="#"><img src="../assets/images/partner/scg.jpg" alt="" title="scg"></a>
                             </div>
-                            <div class="slide-item" style="margin-left:20px !important;">
+                            <div class="slide-item">
                                 <a href="#"><img src="../assets/images/partner/ตราเพชร_new.png" alt="" title="ตราเพชร"></a>
                             </div>       
-                            <div class="slide-item" style="margin-left:20px !important;">
+                            <div class="slide-item">
                                 <a href="#"><img src="../assets/images/partner/qrc_logo.png" alt="" title=""></a>
                             </div>
-                            <div class="slide-item" style="margin-left:20px !important;">
-                                <a href="#"></a>
-                            </div>   
+                            <div class="slide-item">
+                                <a href="#"><img src="../assets/images/partner/สามชัย_วายเคจำกัด.jpg" alt="" title=""></a>
+                            </div>  
                         </div>
                         <!--logos-->
                     </div>
