@@ -632,6 +632,18 @@
                             <div class="slide-item">
                                 <a href="#"><img src="../assets/images/partner/สามชัย_วายเคจำกัด.jpg" alt="" title=""></a>
                             </div>  
+                            <div class="slide-item">
+                                <a href="#"><img src="../assets/images/partner/Land_and_House.jpg" alt="" title=""></a>
+                            </div>  
+                            <div class="slide-item">
+                                <a href="#"><img src="../assets/images/partner/แสนสิริ-จำกัด-มหาชน-logo_large.jpg" alt="" title=""></a>
+                            </div> 
+                            <div class="slide-item">
+                                <a href="#"><img src="../assets/images/partner/Logo_pruksa-thai_cs2.png" alt="" title=""></a>
+                            </div>
+                            <div class="slide-item">
+                                <a href="#"><img src="../assets/images/partner/Property perfect.png" alt="" title=""></a>
+                            </div>
                         </div>
                         <!--logos-->
                     </div>
