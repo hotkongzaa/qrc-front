@@ -82,7 +82,7 @@
                                                         </ul>
                                                     </li>
                                                     <li class="dropdown">
-                                                        <a href="project.html" class="dropdown-toggle">Project</a>
+                                                        <a href="project" class="dropdown-toggle">Project</a>
                                                     </li>                                            
                                                     <li><a href="contact-us">Contact Us</a></li>
                                                 </ul>

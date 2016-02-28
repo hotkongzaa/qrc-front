@@ -74,7 +74,7 @@
                                             <div class="navbar-collapse collapse menu">
                                                 <ul class="navbar-nav navbar-left clearfix">
                                                     <li><a href="main">Home</a></li>
-                                                    <li><a href="about-us.html">About Us</a></li>
+                                                    <li><a href="about-us">About Us</a></li>
                                                     <li class="dropdown current"><a href="services">Services</a>
                                                         <ul class="dropdown-menu" role="menu">
                                                             <li><a href="services">งานด้านบริการ</a></li>
@@ -82,7 +82,7 @@
                                                         </ul>
                                                     </li>
                                                     <li class="dropdown">
-                                                        <a href="project.html" class="dropdown-toggle">Project</a>                                                        
+                                                        <a href="project" class="dropdown-toggle">Project</a>                                                        
                                                     </li>
                                                     <li><a href="contact-us">Contact Us</a></li>
                                                 </ul>

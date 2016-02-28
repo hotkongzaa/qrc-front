@@ -85,14 +85,7 @@
                                                             <li><a href="services-sales">งานด้านการขาย</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li class="dropdown"><a href="project.html" class="dropdown-toggle">Project</a>
-                                                        <ul class="dropdown-menu" role="menu">
-                                                            <li><a href="project.html">Project Full Width</a></li>
-                                                            <li><a href="project-masonry-layout.html">Project Masonry Layout</a></li>
-                                                            <li><a href="project-two-column.html">Project Two Column</a></li>
-                                                            <li><a href="project-three-column.html">Project Three Column</a></li>
-                                                            <li><a href="single-project.html">Single Project</a></li>
-                                                        </ul>
+                                                    <li class="dropdown"><a href="project" class="dropdown-toggle">Project</a>
                                                     </li>                                        
                                                     <li>
                                                         <a href="contact-us">Contact Us</a>
@@ -268,7 +261,7 @@
 
             <!--Main Footer-->
             <!--Main Footer-->
-            <?php include '../include/include_footer.php';?>
+            <?php include '../include/include_footer.php'; ?>
 
 
             <!--Scroll to top-->

@@ -54,8 +54,8 @@
                                     <div class="content-box clearfix">
                                         <!--Logo-->
                                         <div class="logo col-lg-2 col-md-2 col-sm-2 anim-5-all">
-                                            <!--a href="index.html">Buil<span class="theme-color">der</span></a-->
-                                            <a href="index.html" style="padding-bottom: 30px;">
+                                            <!--a href="main">Buil<span class="theme-color">der</span></a-->
+                                            <a href="main" style="padding-bottom: 30px;">
                                                 <img src="../assets/images/logo.JPG"/>
                                             </a>
                                         </div>
@@ -87,7 +87,7 @@
                                                         </ul>
                                                     </li>
                                                     <li>
-                                                        <a href="project_page.html" class="dropdown-toggle">Project</a>
+                                                        <a href="project" class="dropdown-toggle">Project</a>
                                                     </li>
                                                     <li>
                                                         <a href="contact-us">Contact Us</a>
@@ -100,7 +100,7 @@
 
                                         <!--Search Box-->
                                         <div class="search-box widget">
-                                            <form method="post" action="index.html">
+                                            <form method="post" action="main">
                                                 <fieldset class="form-group">
                                                     <input type="search" name="search" value="" placeholder="search">
                                                 </fieldset>
