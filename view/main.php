@@ -394,7 +394,7 @@
                             <li class="filter" data-role="button" data-filter="kanda_group">กานดากรุ๊ป</li>
                             <li class="filter" data-role="button" data-filter="pruksa_real_estate">พฤกษา เรียล เอสเตท</li>
                             <li class="filter" data-role="button" data-filter="sansiri">แสนสิริ</li>
-                            <li class="filter" data-role="button" ><a href="">ดูทั้งหมด...</a></li>                   
+                            <li class="filter" data-role="button" ><a href="project">ดูทั้งหมด...</a></li>                   
                         </ul>
 
                         <!--Items Container-->
@@ -402,60 +402,60 @@
 
                             <!--Item-->
                             <div class="mix mix_all north_land_development">
-                                <figure class="image"><img src="../assets/images/resource/project-image-1.jpg" alt="" title=""></figure>
+                                <figure class="image"><img src="../assets/images/project/logo_pruksa_thai_368x240.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
-                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-1.jpg" data-rel="prettyPhoto" title="Architecture" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>ธาราฟ้าใส สระบุรี1 <br/> ติดตั้งโครงหลังคาสำเร็จรูป</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                    <div class="pop-icon"><a href="../assets/images/project/logo_pruksa_thai_368x240.jpg" data-rel="prettyPhoto" title="Architecture" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>พฤกษา เรียล เอสเตท</span></div>
+                                    <div class="link-icon"><a href="pruksa_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
 
                             <!--Item-->
                             <div class="mix mix_all quality_house">
                                 <figure class="image">
-                                    <img src="project/quality/casa_ville/../assets/images/front.jpg" alt="" title="" width="368" height="250">
+                                    <img src="../assets/images/project/logo_sansiri_368x240.jpg" alt="" title="" width="368" height="250">
                                 </figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon">
-                                        <a href="project/quality/casa_ville/../assets/images/front.jpg" data-rel="prettyPhoto" title="คาซ่าวิลล์ รามอินทรา-หทัยราษฎร์" class="fa fa-camera"></a>
+                                        <a href="../assets/images/project/logo_sansiri_368x240.jpg" data-rel="prettyPhoto" title="คาซ่าวิลล์ รามอินทรา-หทัยราษฎร์" class="fa fa-camera"></a>
                                     </div>
-                                    <div class="title"><span>คาซ่าวิลล์ รามอินทรา-หทัยราษฎร์ <br/> ติดตั้งโครงหลังคาสำเร็จรูป</span></div>
-                                    <div class="link-icon"><a href="project/quality/casa_ville_hatairad.html" class="fa fa-link"></a></div>
+                                    <div class="title"><span>แสนสิริ</span></div>
+                                    <div class="link-icon"><a href="sansiri_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
 
                             <!--Item-->
                             <div class="mix mix_all kanda_group">
-                                <figure class="image"><img src="../assets/images/resource/project-image-3.jpg" alt="" title=""></figure>
+                                <figure class="image"><img src="../assets/images/project/logo_property_perfect_368x240.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
-                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-3.jpg" data-rel="prettyPhoto" title="Mall" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>บ้านกานดา ไอลีฟทาวน์โฮม ประชาอุทิศ 90 <br/> ติดตั้งโครงหลังคาสำเร็จรูป</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                    <div class="pop-icon"><a href="../assets/images/project/logo_property_perfect_368x240.jpg" data-rel="prettyPhoto" title="Mall" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>Property Perfect</span></div>
+                                    <div class="link-icon"><a href="property_perfect_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
 
                             <!--Item-->
-                            <div class="mix mix_all pruksa_real_estate">
+                            <!--<div class="mix mix_all pruksa_real_estate">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
                                     <div class="title"><span>ภัสสร 33 เลียบทางด่วนลาดกระบัง<br/> ติดตั้งโครงหลังคาสำเร็จรูป</span></div>
                                     <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
                                 </div>
-                            </div>
+                            </div>-->
 
                             <!--Item-->
-                            <div class="mix mix_all sansiri">
+                            <!--<div class="mix mix_all sansiri">
                                 <figure class="image"><img src="../assets/images/resource/project-image-5.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/resource/project-image-5.jpg" data-rel="prettyPhoto" title="School" class="fa fa-camera"></a></div>
                                     <div class="title"><span>เศรษสิริ แจ้งวัฒนะ-ประชาชื่น<br/> ติดตั้งโครงหลังคาสำเร็จรูป</span></div>
                                     <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
                                 </div>
-                            </div>
+                            </div>-->
 
                             <!--Item-->
-                            <div class="mix mix_all sansiri">
+                            <!--<div class="mix mix_all sansiri">
                                 <figure class="image"><img src="../assets/images/resource/project-image-6.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/resource/project-image-6.jpg" data-rel="prettyPhoto" title="Flat" class="fa fa-camera"></a></div>
@@ -464,9 +464,9 @@
                                 </div>
                             </div>
 
-                        </div>
+                        </div>-->
 
-                        <a href="#" class="theme-btn full-btn">ดูทั้งหมด</a>
+                        <a href="project" class="theme-btn full-btn">ดูทั้งหมด</a>
 
                     </div>
                 </div>

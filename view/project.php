@@ -136,13 +136,13 @@
                         <ul class="filter-tabs style-two anim-3-all">
                             <li class="filter" data-role="button" data-filter="all">ทั้งหมด</li>
                             <li class="filter" data-role="button" data-filter="north_land_development">นอร์ธแลนด์ ดีวีลอปเม้นท์</li>
-                            <li class="filter" data-role="button" data-filter="quality_house">ควอลิตี้ เฮ้าส์</li>
+                            <li class="filter" data-role="button" data-filter="quality_house_project">ควอลิตี้ เฮ้าส์</li>
                             <li class="filter" data-role="button" data-filter="kanda_group">กานดากรุ๊ป</li>
-                            <li class="filter" data-role="button" data-filter="pruksa_real_estate">พฤกษา เรียล เอสเตท</li>
-                            <li class="filter" data-role="button" data-filter="sansiri">แสนสิริ</li>
+                            <li class="filter" data-role="button" data-filter="pruksa_project">พฤกษา เรียล เอสเตท</li>
+                            <li class="filter" data-role="button" data-filter="sansiri_project">แสนสิริ</li>
                             <li class="filter" data-role="button" data-filter="flat">The Confidence</li>
                             <li class="filter" data-role="button" data-filter="flat">สมายแลนด์</li>
-                            <li class="filter" data-role="button" data-filter="flat">Property Perfect</li>
+                            <li class="filter" data-role="button" data-filter="property_perfect_project">Property Perfect</li>
                             <li class="filter" data-role="button" data-filter="flat">ปริญสิริ</li>
                             <li class="filter" data-role="button" data-filter="flat">โกลเด้น ดีเวลลอปเม้นท์</li>
                             <li class="filter" data-role="button" data-filter="flat">Suanluang Home & Property</li>
@@ -163,32 +163,32 @@
                         <div class="filter-list items-container clearfix">
 
                             <!--Item-->
-                            <div class="mix mix_all mall house architecture bridge">
-                                <figure class="image"><img src="../assets/images/resource/project-image-1.jpg" alt="" title=""></figure>
+                            <div class="mix mix_all pruksa_project">
+                                <figure class="image"><img src="../assets/images/project/logo_pruksa_thai_368x240.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
-                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-1.jpg" data-rel="prettyPhoto" title="Architecture" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>Architecture</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                    <div class="pop-icon"><a href="../assets/images/project/logo_pruksa_thai_368x240.jpg" data-rel="prettyPhoto" title="Architecture" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>พฤกษา เรียล เอสเตท</span></div>
+                                    <div class="link-icon"><a href="pruksa_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
 
                             <!--Item-->
-                            <div class="mix mix_all flat mall house bridge school">
-                                <figure class="image"><img src="../assets/images/resource/project-image-2.jpg" alt="" title=""></figure>
+                            <div class="mix mix_all sansiri_project">
+                                <figure class="image"><img src="../assets/images/project/logo_sansiri_368x240.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
-                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-2.jpg" data-rel="prettyPhoto" title="House" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>House</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                    <div class="pop-icon"><a href="../assets/images/project/logo_sansiri_368x240.jpg" data-rel="prettyPhoto" title="House" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>แสนสิริ</span></div>
+                                    <div class="link-icon"><a href="sansiri_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
 
                             <!--Item-->
                             <div class="mix mix_all flat mall architecture bridge school">
-                                <figure class="image"><img src="../assets/images/resource/project-image-3.jpg" alt="" title=""></figure>
+                                <figure class="image"><img src="../assets/images/project/logo_property_perfect_368x240.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
-                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-3.jpg" data-rel="prettyPhoto" title="Mall" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>Mall</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                    <div class="pop-icon"><a href="../assets/images/project/logo_property_perfect_368x240.jpg" data-rel="prettyPhoto" title="Mall" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>Property Perfect</span></div>
+                                    <div class="link-icon"><a href="property_perfect_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
 
@@ -201,23 +201,40 @@
                                     <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-
-                            <!--Item-->
-                            <div class="mix mix_all mall house architecture bridge school">
-                                <figure class="image"><img src="../assets/images/resource/project-image-5.jpg" alt="" title=""></figure>
+							
+							<!--Item-->
+                            <div class="mix mix_all flat mall house architecture bridge">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
-                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-5.jpg" data-rel="prettyPhoto" title="School" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>School</span></div>
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>Bridge</span></div>
                                     <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-
-                            <!--Item-->
-                            <div class="mix mix_all flat house architecture bridge school">
-                                <figure class="image"><img src="../assets/images/resource/project-image-6.jpg" alt="" title=""></figure>
+							<!--Item-->
+                            <div class="mix mix_all flat mall house architecture bridge">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
-                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-6.jpg" data-rel="prettyPhoto" title="Flat" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>Flat</span></div>
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>Bridge</span></div>
+                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all flat mall house architecture bridge">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>Bridge</span></div>
+                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all flat mall house architecture bridge">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>Bridge</span></div>
                                     <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
                                 </div>
                             </div>
