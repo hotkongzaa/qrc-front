@@ -204,15 +204,15 @@
                                             <!--p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                             <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p-->   
                                             <ul>
-                                                <li class="li_span_font_size"><strong>เศรษสิริ แจ้งวัฒนะ-ประชาชื่น</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>นาราสิริ บางนา</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>ฮาบิเทีย เทียนทะเล</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>บุราสิริ ปัญญา รามอินทรา</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>เศรษสิริ จ. อุดรธานี</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>เศรษสิริ แจ้งวัฒนะ-ประชาชื่น</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>นาราสิริ บางนา</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>ฮาบิเทีย เทียนทะเล</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>บุราสิริ ปัญญา รามอินทรา</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>เศรษสิริ จ. อุดรธานี</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
                                             </ul>
                                             <style>
                                                 .li_span_font_size{
-                                                    font-size:16px;
+                                                    font-size:14px;
                                                 }
                                             </style>									
                                         </div>

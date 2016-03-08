@@ -204,22 +204,22 @@
                                             <!--p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                             <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p-->   
                                             <ul>
-                                                <li class="li_span_font_size"><strong>คาซ่าวิลล์ รามอินทรา-วงแหวน</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>คาซ่าวิลล์ รามอินทรา-หทัยราษฎร์</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>คาซ่าวิลล์ รามคำแหง-วงแหวน</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>คาซ่าเลเจ้นช์ เกษตร-นวมินทร์</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>เดอะทรัสต์ทาวน์ วงแหวน-ลำลูกกา</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>CASA Grand อ่อนนุช</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>เดอะทรัสต์ทาวน์ แพรกษา</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>คาซ่า เลเจ้นด์ ราชพฤกษ์-ปิ่นเกล้า</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>คาซ่าแกรนด์ สุขาภิบาล5</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>ลัดดารมย์ บางแค</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>คาซ่าวิลล์ รังสิต-คลองสอง</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><strong>เดอะทรัสต์ ซิตี้ เกษตรนวมินทร์-นวลจันทร์</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>คาซ่าวิลล์ รามอินทรา-วงแหวน</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>คาซ่าวิลล์ รามอินทรา-หทัยราษฎร์</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>คาซ่าวิลล์ รามคำแหง-วงแหวน</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>คาซ่าเลเจ้นช์ เกษตร-นวมินทร์</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>เดอะทรัสต์ทาวน์ วงแหวน-ลำลูกกา</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>CASA Grand อ่อนนุช</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>เดอะทรัสต์ทาวน์ แพรกษา</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>คาซ่า เลเจ้นด์ ราชพฤกษ์-ปิ่นเกล้า</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>คาซ่าแกรนด์ สุขาภิบาล5</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>ลัดดารมย์ บางแค</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>คาซ่าวิลล์ รังสิต-คลองสอง</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>เดอะทรัสต์ ซิตี้ เกษตรนวมินทร์-นวลจันทร์</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
                                             </ul>
                                             <style>
                                                 .li_span_font_size{
-                                                    font-size:16px;
+                                                    font-size:14px;
                                                 }
                                             </style>									
                                         </div>
