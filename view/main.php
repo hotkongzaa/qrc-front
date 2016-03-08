@@ -389,11 +389,11 @@
                         <!--Filters-->
                         <ul class="filter-tabs style-two anim-3-all">
                             <li class="filter" data-role="button" data-filter="all">ทั้งหมด</li>
-                            <li class="filter" data-role="button" data-filter="north_land_development">นอร์ธแลนด์ ดีวีลอปเม้นท์</li>
-                            <li class="filter" data-role="button" data-filter="quality_house">ควอลิตี้ เฮ้าส์</li>
-                            <li class="filter" data-role="button" data-filter="kanda_group">กานดากรุ๊ป</li>
-                            <li class="filter" data-role="button" data-filter="pruksa_real_estate">พฤกษา เรียล เอสเตท</li>
-                            <li class="filter" data-role="button" data-filter="sansiri">แสนสิริ</li>
+                            <li class="filter" data-role="button" data-filter="north_land_project">นอร์ธแลนด์ ดีวีลอปเม้นท์</li>
+                            <li class="filter" data-role="button" data-filter="quality_house_project">ควอลิตี้ เฮ้าส์</li>
+                            <li class="filter" data-role="button" data-filter="kanda_project">กานดากรุ๊ป</li>
+                            <li class="filter" data-role="button" data-filter="pruksa_project">พฤกษา เรียล เอสเตท</li>
+                            <li class="filter" data-role="button" data-filter="sansiri_project">แสนสิริ</li>
                             <li class="filter" data-role="button" ><a href="project">ดูทั้งหมด...</a></li>                   
                         </ul>
 
@@ -401,7 +401,7 @@
                         <div class="filter-list items-container clearfix">
 
                             <!--Item-->
-                            <div class="mix mix_all north_land_development">
+                            <div class="mix mix_all pruksa_project">
                                 <figure class="image"><img src="../assets/images/project/logo_pruksa_thai_368x240.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/project/logo_pruksa_thai_368x240.jpg" data-rel="prettyPhoto" title="Architecture" class="fa fa-camera"></a></div>
@@ -411,7 +411,7 @@
                             </div>
 
                             <!--Item-->
-                            <div class="mix mix_all quality_house">
+                            <div class="mix mix_all sansiri_project">
                                 <figure class="image">
                                     <img src="../assets/images/project/logo_sansiri_368x240.jpg" alt="" title="" width="368" height="250">
                                 </figure>
@@ -425,7 +425,7 @@
                             </div>
 
                             <!--Item-->
-                            <div class="mix mix_all kanda_group">
+                            <div class="mix mix_all property_perfect_project">
                                 <figure class="image"><img src="../assets/images/project/logo_property_perfect_368x240.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/project/logo_property_perfect_368x240.jpg" data-rel="prettyPhoto" title="Mall" class="fa fa-camera"></a></div>
@@ -435,36 +435,36 @@
                             </div>
 
                             <!--Item-->
-                            <!--<div class="mix mix_all pruksa_real_estate">
+                            <div class="mix mix_all quality_house_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>ภัสสร 33 เลียบทางด่วนลาดกระบัง<br/> ติดตั้งโครงหลังคาสำเร็จรูป</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
-                                </div>
-                            </div>-->
-
-                            <!--Item-->
-                            <!--<div class="mix mix_all sansiri">
-                                <figure class="image"><img src="../assets/images/resource/project-image-5.jpg" alt="" title=""></figure>
-                                <div class="overlay anim-5-all">
-                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-5.jpg" data-rel="prettyPhoto" title="School" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>เศรษสิริ แจ้งวัฒนะ-ประชาชื่น<br/> ติดตั้งโครงหลังคาสำเร็จรูป</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
-                                </div>
-                            </div>-->
-
-                            <!--Item-->
-                            <!--<div class="mix mix_all sansiri">
-                                <figure class="image"><img src="../assets/images/resource/project-image-6.jpg" alt="" title=""></figure>
-                                <div class="overlay anim-5-all">
-                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-6.jpg" data-rel="prettyPhoto" title="Flat" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>บุราสิริ ปัญญา รามอินทรา<br/> ติดตั้งโครงหลังคาสำเร็จรูป</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                    <div class="title"><span>Quality House</span></div>
+                                    <div class="link-icon"><a href="quality_house_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
 
-                        </div>-->
+                            <!--Item-->
+                            <div class="mix mix_all north_land_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-5.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-5.jpg" data-rel="prettyPhoto" title="School" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>นอร์ธแลนด์ ดีวีลอปเม้นท์</span></div>
+                                    <div class="link-icon"><a href="north_land_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+
+                            <!--Item-->
+                            <div class="mix mix_all kanda_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-6.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-6.jpg" data-rel="prettyPhoto" title="Flat" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>กานดากรุ๊ป</span></div>
+                                    <div class="link-icon"><a href="kanda_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+
+                        </div>
 
                             <a href="project" class="theme-btn full-btn">ดูทั้งหมด</a>
 

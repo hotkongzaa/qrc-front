@@ -112,8 +112,8 @@
                 <div class="page-title">
                     <div class="auto-container">
                         <div class="row clearfix">
-                            <div class="col-md-6 col-sm-6 col-xs-12 pull-left"><h1>พฤกษา เรียล เอสเตท</h1></div>
-                            <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="main">Home</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="project">Project</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="#">Pruksa Project</a></div>
+                            <div class="col-md-6 col-sm-6 col-xs-12 pull-left"><h1>นอร์ธแลนด์ ดีวีลอปเม้นท์</h1></div>
+                            <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="main">Home</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="project">Project</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="#">North Land Project</a></div>
                         </div>
                     </div>
                 </div>
@@ -146,8 +146,8 @@
                                     <div class="tab-content">
                                         <figure class="tab collapsed" id="image-one">
                                             <div class="image">
-                                                <img src="../assets/images/project/pruksa_banner.jpg" alt="">
-                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="../assets/images/project/pruksa_banner.jpg" data-rel="prettyPhoto" title="Gallery Title" class="fa fa-camera"></a></div></div>
+                                                <img src="../assets/images/resource/single-project-image-1.jpg" alt="">
+                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="../assets/images/resource/single-project-image-1.jpg" data-rel="prettyPhoto" title="Gallery Title" class="fa fa-camera"></a></div></div>
                                             </div>
                                         </figure>
 
@@ -178,71 +178,37 @@
                             <div class="project-data clearfix">
 
                                 <!--Left-->
-                                <!--                                <div class="left col-md-3 col-sm-3 col-xs-12">
-                                                                    <h3>พฤกษา เรียล เอสเตท</h3>
-                                                                    <ul>
-                                                                        <li><strong>: : ติดตั้งโครงหลังคาสำเร็จรูป</strong></li>
-                                                                        <li><strong>Date :</strong> 11/05/14</li>
-                                                                        <li><strong>Location:</strong> Dhanmondi 27, Block c</li>
-                                                                        <li><strong>Surface Area:</strong> 580,000 m2</li>
-                                                                        <li><strong>Value:</strong> $250.000</li>
-                                                                        <li><strong>Architect:</strong> Rashed &amp; Muhibur</li>
-                                                                    </ul>
-                                                                </div>-->
+                                <!--div class="left col-md-3 col-sm-3 col-xs-12">
+                                        <h3>พฤกษา เรียล เอสเตท</h3>
+                                    <ul>
+                                        <li><strong>: : ติดตั้งโครงหลังคาสำเร็จรูป</strong></li>
+                                        <li><strong>Date :</strong> 11/05/14</li>
+                                        <li><strong>Location:</strong> Dhanmondi 27, Block c</li>
+                                        <li><strong>Surface Area:</strong> 580,000 m2</li>
+                                        <li><strong>Value:</strong> $250.000</li>
+                                        <li><strong>Architect:</strong> Rashed &amp; Muhibur</li>
+                                    </ul>
+                                </div-->
 
                                 <!--Right-->
                                 <div class="right col-md-12 col-sm-12 col-xs-12">
                                     <h3>ชื่อลูกค้า</h3>
-                                    <p class="li_span_font_size">: : พฤกษา เรียล เอสเตท</p>
+                                    <p class="li_span_font_size">: : นอร์ธแลนด์ ดีวีลอปเม้นท์</p>
+
                                     <hr>
                                     <br>
 
                                     <h3>ชื่อโครงการ</h3>
                                     <div class="row clearfix">
-
-                                        <div class="col-md-7 col-sm-7 col-xs-12" >
-
+                                        <div class="col-md-7 col-sm-7 col-xs-12">
                                             <!--p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                             <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p-->   
                                             <ul>
-                                                <li class="li_span_font_size">
-                                                    <span class="fa fa-arrow-circle-right"></span> <strong>ภัสสร 25 บางนา</strong> - ติดตั้งโครงหลังคาสำเร็จรูป
-                                                </li>
-                                                <li class="li_span_font_size">
-                                                    <span class="fa fa-arrow-circle-right"></span> <strong>ภัสสร 28 หนามแดง</strong> - ติดตั้งโครงหลังคาสำเร็จรูป
-                                                </li>
-                                                <li class="li_span_font_size">
-                                                    <span class="fa fa-arrow-circle-right"></span> <strong>ภัสสร 33 เลียบทางด่วนลาดกระบัง</strong> - ติดตั้งโครงหลังคาสำเร็จรูป
-                                                </li>
-                                                <li class="li_span_font_size">
-                                                    <span class="fa fa-arrow-circle-right"></span> <strong>ภัสสร 37</strong> - ติดตั้งโครงหลังคาสำเร็จรูป
-                                                </li>
-                                                <li class="li_span_font_size">
-                                                    <span class="fa fa-arrow-circle-right"></span> <strong>ภัสสร 40</strong> - ติดตั้งโครงหลังคาสำเร็จรูป
-                                                </li>
-                                                <li class="li_span_font_size">
-                                                    <span class="fa fa-arrow-circle-right"></span> <strong>Village 24 คลอง 3</strong> - ติดตั้งโครงหลังคาสำเร็จรูป
-                                                </li>
-                                                <li class="li_span_font_size">
-                                                    <span class="fa fa-arrow-circle-right"></span> <strong>Village 27 ฉลองกรุง ลาดกระบัง</strong> - ติดตั้งโครงหลังคาสำเร็จรูป
-                                                </li>
-                                                <li class="li_span_font_size">
-                                                    <span class="fa fa-arrow-circle-right"></span> <strong>พฤกษาปุริ 3 ชั้น พัฒนาการ 32</strong> - ติดตั้งโครงหลังคาสำเร็จรูป
-                                                </li>
-                                                <li class="li_span_font_size">
-                                                    <span class="fa fa-arrow-circle-right"></span> <strong>Village Lite 2 ชั้น พัฒนาการ 32</strong> - ติดตั้งโครงหลังคาสำเร็จรูป
-                                                </li>
-                                                <li class="li_span_font_size">
-                                                    <span class="fa fa-arrow-circle-right"></span> <strong>เนทูร่า แพรกษา</strong> - ติดตั้งโครงหลังคาสำเร็จรูป
-                                                </li>
-                                                <li class="li_span_font_size">
-                                                    <span class="fa fa-arrow-circle-right"></span> <strong>ลาวัลเล่ หัวหิน</strong> - ติดตั้งโครงหลังคาสำเร็จรูป
-                                                </li>
-                                                <li class="li_span_font_size">
-                                                    <span class="fa fa-arrow-circle-right"></span> <strong>เดอะปาล์ม พัฒนาการ 38</strong> - ติดตั้งโครงหลังคาสำเร็จรูป
-                                                </li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>ธาราฟ้าใส สระบุรี1</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>ธาราฟ้าใส สระบุรี2</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>พันดารา สระบุรี</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
                                             </ul>
-                                            <style>                                                
+                                            <style>
                                                 .li_span_font_size{
                                                     font-size:14px;
                                                 }

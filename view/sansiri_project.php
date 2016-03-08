@@ -209,6 +209,7 @@
                                                 <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>ฮาบิเทีย เทียนทะเล</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
                                                 <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>บุราสิริ ปัญญา รามอินทรา</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
                                                 <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>เศรษสิริ จ. อุดรธานี</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+												<li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>สราญสิริ ติวานนท์</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
                                             </ul>
                                             <style>
                                                 .li_span_font_size{

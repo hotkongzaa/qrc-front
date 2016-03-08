@@ -135,28 +135,28 @@
                         <!--Filters-->
                         <ul class="filter-tabs style-two anim-3-all">
                             <li class="filter" data-role="button" data-filter="all">ทั้งหมด</li>
-                            <li class="filter" data-role="button" data-filter="north_land_development">นอร์ธแลนด์ ดีวีลอปเม้นท์</li>
+                            <li class="filter" data-role="button" data-filter="north_land_project">นอร์ธแลนด์ ดีวีลอปเม้นท์</li>
                             <li class="filter" data-role="button" data-filter="quality_house_project">ควอลิตี้ เฮ้าส์</li>
-                            <li class="filter" data-role="button" data-filter="kanda_group">กานดากรุ๊ป</li>
+                            <li class="filter" data-role="button" data-filter="kanda_project">กานดากรุ๊ป</li>
                             <li class="filter" data-role="button" data-filter="pruksa_project">พฤกษา เรียล เอสเตท</li>
                             <li class="filter" data-role="button" data-filter="sansiri_project">แสนสิริ</li>
-                            <li class="filter" data-role="button" data-filter="flat">The Confidence</li>
-                            <li class="filter" data-role="button" data-filter="flat">สมายแลนด์</li>
+                            <li class="filter" data-role="button" data-filter="the_confidence_project">The Confidence</li>
+                            <li class="filter" data-role="button" data-filter="smile_land_project">สมายแลนด์</li>
                             <li class="filter" data-role="button" data-filter="property_perfect_project">Property Perfect</li>
-                            <li class="filter" data-role="button" data-filter="flat">ปริญสิริ</li>
-                            <li class="filter" data-role="button" data-filter="flat">โกลเด้น ดีเวลลอปเม้นท์</li>
-                            <li class="filter" data-role="button" data-filter="flat">Suanluang Home & Property</li>
-                            <li class="filter" data-role="button" data-filter="flat">สัมมากร</li>
-                            <li class="filter" data-role="button" data-filter="flat">Keppel Thai Properties</li>
-                            <li class="filter" data-role="button" data-filter="flat">LHM Property Group</li>
-                            <li class="filter" data-role="button" data-filter="flat">The Balanz</li> 
-                            <li class="filter" data-role="button" data-filter="flat">แนชเชอรัล ลิฟวิ่ง พร็อพเพอร์ตี้</li> 
-                            <li class="filter" data-role="button" data-filter="flat">โกลเด้น แลนด์ เรสซิเด้นซ์</li> 
-                            <li class="filter" data-role="button" data-filter="flat">เมโทรโพลิส พรอพเพอร์ตี้</li> 
-                            <li class="filter" data-role="button" data-filter="flat">Enrich</li> 
-                            <li class="filter" data-role="button" data-filter="flat">ซื่อตรงกรุ๊ป</li>
-                            <li class="filter" data-role="button" data-filter="flat">The Estate</li>
-                            <li class="filter" data-role="button" data-filter="flat">อ.เมือง สมุทรสงคราม</li>
+                            <li class="filter" data-role="button" data-filter="parinsiri_project">ปริญสิริ</li>
+                            <li class="filter" data-role="button" data-filter="golden_project">โกลเด้น ดีเวลลอปเม้นท์</li>
+                            <li class="filter" data-role="button" data-filter="suanluang_project">Suanluang Home & Property</li>
+                            <li class="filter" data-role="button" data-filter="sammakorn_project">สัมมากร</li>
+                            <li class="filter" data-role="button" data-filter="keppel_thai_project">Keppel Thai Properties</li>
+                            <li class="filter" data-role="button" data-filter="lhm_property_project">LHM Property Group</li>
+                            <li class="filter" data-role="button" data-filter="the_balanz_project">The Balanz</li> 
+                            <li class="filter" data-role="button" data-filter="natural_living_project">แนชเชอรัล ลิฟวิ่ง พร็อพเพอร์ตี้</li> 
+                            <li class="filter" data-role="button" data-filter="golden_land_project">โกลเด้น แลนด์ เรสซิเด้นซ์</li> 
+                            <li class="filter" data-role="button" data-filter="metropolis_project">เมโทรโพลิส พรอพเพอร์ตี้</li> 
+                            <li class="filter" data-role="button" data-filter="enrich_project">Enrich</li> 
+                            <li class="filter" data-role="button" data-filter="suetrong_project">ซื่อตรงกรุ๊ป</li>
+                            <li class="filter" data-role="button" data-filter="the_estate_project">The Estate</li>
+                            <li class="filter" data-role="button" data-filter="samut_songkhram_project">อ.เมือง สมุทรสงคราม</li>
                         </ul>
 
                         <!--Items Container-->
@@ -183,7 +183,7 @@
                             </div>
 
                             <!--Item-->
-                            <div class="mix mix_all flat mall architecture bridge school">
+                            <div class="mix mix_all property_perfect_project">
                                 <figure class="image"><img src="../assets/images/project/logo_property_perfect_368x240.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/project/logo_property_perfect_368x240.jpg" data-rel="prettyPhoto" title="Mall" class="fa fa-camera"></a></div>
@@ -193,49 +193,175 @@
                             </div>
 
                             <!--Item-->
-                            <div class="mix mix_all flat mall house architecture bridge">
+                            <div class="mix mix_all quality_house_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>Bridge</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                    <div class="title"><span>Quality House</span></div>
+                                    <div class="link-icon"><a href="quality_house_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
 
                             <!--Item-->
-                            <div class="mix mix_all flat mall house architecture bridge">
+                            <div class="mix mix_all north_land_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>Bridge</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                    <div class="title"><span>นอร์ธแลนด์ ดีวีลอปเม้นท์</span></div>
+                                    <div class="link-icon"><a href="north_land_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
                             <!--Item-->
-                            <div class="mix mix_all flat mall house architecture bridge">
+                            <div class="mix mix_all kanda_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>Bridge</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                    <div class="title"><span>กานดากรุ๊ป</span></div>
+                                    <div class="link-icon"><a href="kanda_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
                             <!--Item-->
-                            <div class="mix mix_all flat mall house architecture bridge">
+                            <div class="mix mix_all the_confidence_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>Bridge</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                    <div class="title"><span>The Confidence</span></div>
+                                    <div class="link-icon"><a href="the_confidence_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
                             <!--Item-->
-                            <div class="mix mix_all flat mall house architecture bridge">
+                            <div class="mix mix_all smile_land_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>Bridge</span></div>
-                                    <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
+                                    <div class="title"><span>สมายแลนด์</span></div>
+                                    <div class="link-icon"><a href="smile_land_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all parinsiri_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>ปริญสิริ</span></div>
+                                    <div class="link-icon"><a href="parinsiri_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all golden_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>โกลเด้น ดีเวลลอปเม้นท์</span></div>
+                                    <div class="link-icon"><a href="golden_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all suanluang_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>Suanluang Home & Property</span></div>
+                                    <div class="link-icon"><a href="suanluang_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all sammakorn_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>สัมมากร</span></div>
+                                    <div class="link-icon"><a href="sammakorn_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all keppel_thai_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>Keppel Thai Properties</span></div>
+                                    <div class="link-icon"><a href="keppel_thai_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all lhm_property_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>LHM Property Group</span></div>
+                                    <div class="link-icon"><a href="lhm_property_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all the_balanz_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>The Balanz</span></div>
+                                    <div class="link-icon"><a href="the_balanz_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all natural_living_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>แนชเชอรัล ลิฟวิ่ง พร็อพเพอร์ตี้</span></div>
+                                    <div class="link-icon"><a href="natural_living_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all golden_land_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>โกลเด้น แลนด์ เรสซิเด้นซ์</span></div>
+                                    <div class="link-icon"><a href="golden_land_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all metropolis_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>เมโทรโพลิส พรอพเพอร์ตี้</span></div>
+                                    <div class="link-icon"><a href="metropolis_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all enrich_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>Enrich</span></div>
+                                    <div class="link-icon"><a href="enrich_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all suetrong_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>ซื่อตรงกรุ๊ป</span></div>
+                                    <div class="link-icon"><a href="suetrong_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all the_estate_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>The estate</span></div>
+                                    <div class="link-icon"><a href="the_estate_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+							<!--Item-->
+                            <div class="mix mix_all samut_songkhram_project">
+                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>อ.เมือง สมุทรสงคราม</span></div>
+                                    <div class="link-icon"><a href="samut_songkhram_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
 
