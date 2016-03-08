@@ -466,10 +466,10 @@
 
                         </div>-->
 
-                        <a href="project" class="theme-btn full-btn">ดูทั้งหมด</a>
+                            <a href="project" class="theme-btn full-btn">ดูทั้งหมด</a>
 
+                        </div>
                     </div>
-                </div>
             </section>
 
             <!--Our Team-->

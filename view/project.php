@@ -201,8 +201,8 @@
                                     <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							
-							<!--Item-->
+
+                            <!--Item-->
                             <div class="mix mix_all flat mall house architecture bridge">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -211,7 +211,7 @@
                                     <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all flat mall house architecture bridge">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -220,7 +220,7 @@
                                     <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all flat mall house architecture bridge">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -229,7 +229,7 @@
                                     <div class="link-icon"><a href="single-project.html" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all flat mall house architecture bridge">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
