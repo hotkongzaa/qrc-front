@@ -154,7 +154,7 @@
                                          data-speed="700"
                                          data-start="1500"
                                          data-easing="easeOutExpo">
-                                        <a href="#" class="theme-btn theme-color">BUY NOW</a> &ensp; <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
+                                        <!--a href="#" class="theme-btn theme-color">BUY NOW</a--> &ensp; <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
                                     </div>
                                     <div class="caption fade image right"
                                          data-x="right"
@@ -198,7 +198,7 @@
                                          data-speed="700"
                                          data-start="1500"
                                          data-easing="easeOutExpo">
-                                        <a href="#" class="theme-btn theme-color">BUY NOW</a> &ensp; <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
+                                        <!--a href="#" class="theme-btn theme-color">BUY NOW</a--> &ensp; <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
                                     </div>
                                 </li>
 
@@ -232,7 +232,7 @@
                                          data-speed="700"
                                          data-start="1500"
                                          data-easing="easeOutExpo">
-                                        <a href="#" class="theme-btn theme-color">BUY NOW</a> &ensp; <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
+                                        <!--a href="#" class="theme-btn theme-color">BUY NOW</a--> &ensp; <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
                                     </div>
                                     <div class="caption fade image left"
                                          data-x="left"
@@ -334,11 +334,11 @@
                 </div>
             </section>
             <!--Our History-->
-            <section class="our-history parallax-section text-center" style="background-image:url(../assets/images/parallax/parallax-image-1.jpg);">
+            <!--section class="our-history parallax-section text-center" style="background-image:url(../assets/images/parallax/parallax-image-1.jpg);">
                 <h3>We are since 1975</h3>
                 <h1>The starting point of all achievement is desire</h1>
                 <a href="#" class="theme-btn full-btn">Buy Now</a>
-            </section>
+            </section-->
 
             <section class="our-services style-three">
                 <div class="auto-container">

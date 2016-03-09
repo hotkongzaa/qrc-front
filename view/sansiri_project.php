@@ -53,7 +53,12 @@
                                 <div class="box-shadow-effect2">
                                     <div class="content-box clearfix">
                                         <!--Logo-->
-                                        <div class="logo col-lg-2 col-md-2 col-sm-2 anim-5-all"><a href="index.html">Buil<span class="theme-color">der</span></a></div>
+                                        <div class="logo col-lg-2 col-md-2 col-sm-2 anim-5-all">
+                                            <!--<a href="index.html">Buil<span class="theme-color">der</span></a>-->
+                                            <a href="main" style="padding-bottom: 30px;">
+                                                <img src="../assets/images/logo.JPG"/>
+                                            </a>
+                                        </div>
 
                                         <!--Navigation-->
                                         <nav class="col-md-10 pull-right main-navigation">
@@ -209,7 +214,7 @@
                                                 <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>ฮาบิเทีย เทียนทะเล</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
                                                 <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>บุราสิริ ปัญญา รามอินทรา</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
                                                 <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>เศรษสิริ จ. อุดรธานี</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-												<li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>สราญสิริ ติวานนท์</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>สราญสิริ ติวานนท์</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
                                             </ul>
                                             <style>
                                                 .li_span_font_size{

@@ -53,7 +53,12 @@
                                 <div class="box-shadow-effect2">
                                     <div class="content-box clearfix">
                                         <!--Logo-->
-                                        <div class="logo col-lg-2 col-md-2 col-sm-2 anim-5-all"><a href="index.html">Buil<span class="theme-color">der</span></a></div>
+                                        <div class="logo col-lg-2 col-md-2 col-sm-2 anim-5-all">
+                                            <!--<a href="index.html">Buil<span class="theme-color">der</span></a>-->
+                                            <a href="main" style="padding-bottom: 30px;">
+                                                <img src="../assets/images/logo.JPG"/>
+                                            </a>
+                                        </div>
 
                                         <!--Navigation-->
                                         <nav class="col-md-10 pull-right main-navigation">
