@@ -56,7 +56,7 @@
                                         <div class="logo col-lg-2 col-md-2 col-sm-2 anim-5-all">
                                             <!--a href="main">Buil<span class="theme-color">der</span></a-->
                                             <a href="main" style="padding-bottom: 30px;">
-                                                <img src="../assets/images/logo.JPG"/>
+                                                <img src="../assets/images/logo_qrc_v11.png"/>
                                             </a>
                                         </div>
 
