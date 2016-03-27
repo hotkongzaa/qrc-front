@@ -135,7 +135,7 @@
                         <section class="single-project col-lg-12">
 
                             <!--Project ../assets/images-->
-                            <div class="project-../assets/images anim-5-all clearfix">
+                            <div class="project-images anim-5-all clearfix">
 
                                 <!-- Tabs Box -->
                                 <div class="tabs-box">

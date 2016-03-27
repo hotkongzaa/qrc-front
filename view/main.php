@@ -618,7 +618,6 @@
             <section class="client-logos">
                 <div class="auto-container">
                     <div class="row anim-5-all clearfix">
-
                         <div class="client-carsoule">
                             <div class="slide-item">
                                 <a href="#"><img src="../assets/images/partner/scg.jpg" alt="" title="scg"></a>
@@ -631,10 +630,7 @@
                             </div>
                             <div class="slide-item">
                                 <a href="#"><img src="../assets/images/partner/สามชัย_วายเคจำกัด.jpg" alt="" title=""></a>
-                            </div>  
-                            <div class="slide-item">
-                                <a href="#"><img src="../assets/images/partner/Land_and_House.jpg" alt="" title=""></a>
-                            </div>  
+                            </div>
                             <div class="slide-item">
                                 <a href="#"><img src="../assets/images/partner/แสนสิริ-จำกัด-มหาชน-logo_large.jpg" alt="" title=""></a>
                             </div> 
