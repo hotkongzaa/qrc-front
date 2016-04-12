@@ -147,7 +147,7 @@
                                          data-speed="700"
                                          data-start="1000"
                                          data-easing="easeOutExpo">
-                                        <h4 style="color: white">
+                                        <h4 style="color: whitesmoke">
                                             บริการติดตั้งโครงหลังคาสำหรับรูป โดยช่างผู้เชี่ยวชาญที่มีประสบการณ์สูง<br> 
                                             ซึ่งผ่านการอบรมเฉพาะทาง จากเจ้าของผลิตภัณฑ์โดยตรง
                                         </h4>
@@ -219,7 +219,7 @@
                                          data-start="500"
                                          data-easing="easeOutExpo">
                                         <h2 class="text-right theme-color-bg">
-                                            <span>Make your</span><br><span>Dream TRUE With us</span>
+                                            <span>บ้าน นาโน เฮ้าส์ บ้านต้นทุนต่ำ</span><br><span>ประหยัดพลังงาน และ เป็นมิตรกับสิ่งแวดล้อม</span>
                                         </h2>
                                     </div>
                                     <div class="caption lfb stb"
@@ -230,7 +230,10 @@
                                          data-speed="700"
                                          data-start="1000"
                                          data-easing="easeOutExpo">
-                                        <h4 class="text-right">There are many variations of passages of Lorem Ipsum<br> available, but the majority have suffered alteration in some <br>form, by injected humour.</h4>
+                                        <h4 class="text-right" style="color: whitesmoke">
+                                            ให้คำปรึกษา และรับสร้างบ้าน โดยใช้วัสดุ และระบบ นาโน เฮ้าส์, วัสดุ และระบบที่ผ่านการ <br>
+                                            ศึกษา วิจัย ออกแบบ และพัฒนาโดย บ. ไทย นาโน เฮ้าส์ ทำให้ได้บ้านตามมาตรฐาน
+                                        </h4>
                                     </div>
                                     <div class="caption lfb stb"
                                          data-x="right"
@@ -240,7 +243,7 @@
                                          data-speed="700"
                                          data-start="1500"
                                          data-easing="easeOutExpo">
-                                        <!--a href="#" class="theme-btn theme-color">BUY NOW</a--> &ensp; <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
+                                        <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
                                     </div>
                                     <div class="caption fade image left"
                                          data-x="left"
@@ -250,7 +253,7 @@
                                          data-speed="700"
                                          data-start="2000"
                                          data-easing="easeOutBack">
-                                        <img src="../assets/images/resource/main-slider-image-1.png" alt="">
+                                        <img src="../assets/images/bullet/img_bullet3.png" alt="">
                                     </div>
                                 </li>
 
@@ -270,27 +273,29 @@
                         <div class="bar bg-white"></div>
                         <header class="sec-title">
                             <span class="double-line"></span> &ensp; <h1>We Are Builder</h1> &ensp; <span class="double-line"></span>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has <br> been the industry's standard dummy text ever since the 1500s</p>
+                            <p style="font-size: 12px;">
+                                เรามีทีมงานคุณภาพที่มากด้วยประสบการณ์ และเลือกใช้วัสดุอุปกรณ์ที่มีคุณภาพ และมีมาตรฐาน
+                            </p>
                         </header>
 
                         <div class="col-lg-6 single-what-we-do clearfix">
                             <div class="img-wrap ">
-                                <img src="../assets/images/what-we-do/1.jpg" alt="">
+                                <img src="../assets/images/bullet/qualitywork.png" alt="">
                                 <div class="overlay">
                                     <div class="link">
                                         <a href="#" class="fa fa-link"></a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="content">
+                            <div class="content" style="padding-bottom: 54px !important;">
                                 <h3>Quality Work</h3>
-                                <p>Lorem Ipsum is simply dummy the printing and typesetting industry. Lorem Ipsum </p>
-                                <a href="#">Read More</a>
+                                <p>ผลงานคุณภาพ : เรามีการตรวจสอบคุณภาพในทุกขั้นตอนเป็นระบบอย่างพิถีพิถัน สามารถตรวจสอบได้ในทุกขั้นตอนการทำงาน โดยวิศวกรและทีมงานที่มีความเชียวชาญ </p>
+                                <!--<a href="#">Read More</a>-->
                             </div>
                         </div>
                         <div class="col-lg-6 single-what-we-do clearfix">
                             <div class="img-wrap ">
-                                <img src="../assets/images/what-we-do/2.jpg" alt="">
+                                <img src="../assets/images/bullet/trustedworker.png" alt="">
                                 <div class="overlay">
                                     <div class="link">
                                         <a href="#" class="fa fa-link"></a>
@@ -299,13 +304,13 @@
                             </div>
                             <div class="content">
                                 <h3>Trusted Worker</h3>
-                                <p>Lorem Ipsum is simply dummy the printing and typesetting industry. Lorem Ipsum </p>
-                                <a href="#">Read More</a>
+                                <p>ทีมงานคุณภาพที่เชื่อถือได้ : เรามีทีมงานก่อสร้างประสบการณ์สูง ที่มีความเข้าใจในกระบวนการและขั้นตอนในการก่อสร้าง และมีทีมตรวจสอบคุณภาพที่เชี่ยวชาญในการก่อสร้างบ้าน และงานวิศวกรรมก่อสร้าง </p>
+                                <!--<a href="#">Read More</a>-->
                             </div>
                         </div>
                         <div class="col-lg-6 single-what-we-do clearfix content-left">
                             <div class="img-wrap ">
-                                <img src="../assets/images/what-we-do/3.jpg" alt="">
+                                <img src="../assets/images/bullet/NanoTechnology.png" alt="">
                                 <div class="overlay">
                                     <div class="link">
                                         <a href="#" class="fa fa-link"></a>
@@ -313,14 +318,14 @@
                                 </div>
                             </div>
                             <div class="content">
-                                <h3>Heavy Matarials</h3>
-                                <p>Lorem Ipsum is simply dummy the printing and typesetting industry. Lorem Ipsum </p>
-                                <a href="#">Read More</a>
+                                <h3>Nano Technology</h3>
+                                <p>นาโนเทคโนโลยี : เรานำเทคโนโลยีนาโน  มาใช้ในพัฒนา และสร้างวัสดุก่อสร้าง เพื่อใช้ในงานก่อสร้าง ทำให้ได้บ้านที่มีคุณภาพสูง ประหยัดพลังงาน และเป็นมิตรกับสิ่งแวดล้อม </p>
+                                <!--<a href="#">Read More</a>-->
                             </div>
                         </div>
                         <div class="col-lg-6 single-what-we-do clearfix content-left">
                             <div class="img-wrap ">
-                                <img src="../assets/images/what-we-do/4.jpg" alt="">
+                                <img src="../assets/images/bullet/expertengineer.png" alt="">
                                 <div class="overlay">
                                     <div class="link">
                                         <a href="#" class="fa fa-link"></a>
@@ -329,8 +334,8 @@
                             </div>
                             <div class="content">
                                 <h3>Expert Engineer</h3>
-                                <p>Lorem Ipsum is simply dummy the printing and typesetting industry. Lorem Ipsum </p>
-                                <a href="#">Read More</a>
+                                <p>เรามีวิศวกรผู้เชี่ยวชาญในการตรวจสอบ และควบคุมงานก่อสร้าง ณ ไซต์งาน ซึ่งจะเป็นผู้ควบคุมดูแลคุณภาพมาตรฐานงานก่อสร้างตลอดระยะเวลาการสร้างบ้าน โดยสามารถแก้ไขปัญหาที่เกิดขึ้นในระหว่างดำเนินงาน และเป็นที่ปรึกษาให้กับลูกค้าในระหว่างก่อสร้างได้เป็นอย่างดี </p>
+                                <!--<a href="#">Read More</a>-->
                             </div>
                         </div>
 
