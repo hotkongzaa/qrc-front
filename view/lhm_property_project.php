@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Builder Construction Template | Single Project</title>
+        <title>QRC | Lhm Property</title>
         <!-- Stylesheets -->
         <?php include '../include/include_css.php'; ?>
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -20,29 +20,7 @@
                 <!--Main Header-->
                 <header class="main-header">
                     <!--Top bar-->
-                    <div class="top-bar">
-                        <div class="auto-container">
-                            <div class="row clearfix">
-                                <div class="topbar-wrap clearfix">
-                                    <!--Top Left-->
-                                    <div class="top-left clearfix col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <p class="email"><a href="mailto:company@name.com"><span class="fa fa-envelope"></span>&ensp;company@name.com</a></p><span class="bar">&ensp;&ensp;|&ensp;&ensp;</span><p class="phone"><span class="fa fa-phone"></span>&ensp;+80 12-878-587</p>
-                                    </div>
-                                    <!--Top Right-->
-                                    <div class="top-right col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <!--Social Links-->
-                                        <ul class="social-links anim-3-all">
-                                            <li><a class="img-circle" href="#" title="Facebook"><span class="fa fa-facebook-f"></span></a></li>
-                                            <li><a class="img-circle" href="#" title="Facebook"><span class="fa fa-twitter"></span></a></li>
-                                            <li><a class="img-circle" href="#" title="Facebook"><span class="fa fa-linkedin"></span></a></li>
-                                            <li><a class="img-circle" href="#" title="Facebook"><span class="fa fa-pinterest-p"></span></a></li>
-                                        </ul>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <?php include '../include/include_topbar.php'; ?>
                     <!--Top bar End-->
 
                     <!--Lower Section-->

@@ -169,20 +169,20 @@
         var map;
         map = new GMaps({
             el: '#our-location',
-            zoom: 18,
+            zoom: 17,
             scrollwheel: false,
             //Set Latitude and Longitude Here
-            lat: -37.817085,
-            lng: 144.955631
+            lat: 14.0300679,
+            lng: 100.6637329
 
         });
 
         //Add map Marker
         map.addMarker({
-            lat: -37.817085,
-            lng: 144.955631,
+            lat: 14.0300679,
+            lng: 100.6637329,
             infoWindow: {
-                content: '<p><b>Envato</b> <br> Melbourne VIC 3000, Australia</p>'
+                content: '<p>ภัสสร 1 รังสิต-คลองสาม (Passorn 1 Rangsit-Klong 3)</p>'
             }
 
         });
