@@ -16,7 +16,7 @@
             <div class="preloader"></div>
 
             <!--Main Banner-->
-            <section class="page-banner banner" style="background-image:url(../assets/images/parallax/banner-bg-1.jpg);">
+            <section class="page-banner banner" style="background-image:url(../assets/images/qrc_background.png);">
                 <!--Main Header-->
                 <header class="main-header">
                     <!--Top bar-->

@@ -374,12 +374,12 @@ input:-moz-placeholder { }
     font-weight:800;
     line-height:30px;
     text-transform:uppercase;
-    color:#ffffff;	
+    color:#fab226;	
 }
 
 .page-title .path{
     font-size:14px;
-    color:#ffffff;
+    color:#fab226;
     font-weight:600;
     line-height:20px;
     padding:5px 15px;
@@ -390,7 +390,7 @@ input:-moz-placeholder { }
     position:relative;
     font-size:13px;
     display:inline-block;
-    color:#ffffff;	
+    color:#fab226;	
 }
 
 .page-title .path a:hover{

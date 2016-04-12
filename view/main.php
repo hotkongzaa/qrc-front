@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Builder Construction Template | Home Page</title>
+        <title>QRC | Home Page</title>
         <!-- Stylesheets -->
         <?php include '../include/include_css.php'; ?>
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -16,7 +16,7 @@
             <div class="preloader"></div>
 
             <!--Main Banner-->
-            <section class="main-banner banner" style="background-image:url(../assets/images/parallax/banner-bg-1.jpg);">
+            <section class="main-banner banner" style="background-image:url(../assets/images/qrc_background.png);">
                 <!--Main Header-->
                 <header class="main-header">
                     <!--Top bar-->
@@ -134,7 +134,10 @@
                                          data-speed="700"
                                          data-start="500"
                                          data-easing="easeOutExpo">
-                                        <h2><span class="bg">Make your</span><br><span class="bg">Dream TRUE With us</span></h2>
+                                        <h2 class="theme-color-bg">
+                                            <span class="bg">บริการคุณภาพ</span><br>
+                                            <span class="bg">โดยทีมงานมืออาชีพ</span>
+                                        </h2>
                                     </div>
                                     <div class="caption lfb stb"
                                          data-x="left"
@@ -144,7 +147,10 @@
                                          data-speed="700"
                                          data-start="1000"
                                          data-easing="easeOutExpo">
-                                        <h4>There are many variations of passages of Lorem Ipsum<br> available, but the majority have suffered alteration in some <br>form, by injected humour.</h4>
+                                        <h4 style="color: white">
+                                            บริการติดตั้งโครงหลังคาสำหรับรูป โดยช่างผู้เชี่ยวชาญที่มีประสบการณ์สูง<br> 
+                                            ซึ่งผ่านการอบรมเฉพาะทาง จากเจ้าของผลิตภัณฑ์โดยตรง
+                                        </h4>
                                     </div>
                                     <div class="caption lfb stb"
                                          data-x="left"
@@ -154,7 +160,7 @@
                                          data-speed="700"
                                          data-start="1500"
                                          data-easing="easeOutExpo">
-                                        <!--a href="#" class="theme-btn theme-color">BUY NOW</a--> &ensp; <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
+                                        <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
                                     </div>
                                     <div class="caption fade image right"
                                          data-x="right"
@@ -164,7 +170,7 @@
                                          data-speed="700"
                                          data-start="2000"
                                          data-easing="easeOutBack">
-                                        <img src="../assets/images/resource/main-slider-image-1.png" alt="">
+                                        <img src="../assets/images/bullet/img_bullet1.png" alt="">
                                     </div>
                                 </li>
 
@@ -178,7 +184,7 @@
                                          data-speed="700"
                                          data-start="500"
                                          data-easing="easeOutExpo">
-                                        <h2 class="text-center theme-color">Make your <br><span>Dream</span> TRUE With us</h2>
+                                        <h2 class="text-center theme-color">Make youtheme-colorr <br><span>Dream</span> TRUE With us</h2>
                                     </div>
                                     <div class="caption lfb stb"
                                          data-x="center"
@@ -212,7 +218,9 @@
                                          data-speed="700"
                                          data-start="500"
                                          data-easing="easeOutExpo">
-                                        <h2 class="text-right theme-color-bg"><span>Make your</span><br><span>Dream TRUE With us</span></h2>
+                                        <h2 class="text-right theme-color-bg">
+                                            <span>Make your</span><br><span>Dream TRUE With us</span>
+                                        </h2>
                                     </div>
                                     <div class="caption lfb stb"
                                          data-x="right"
@@ -466,10 +474,10 @@
 
                         </div>
 
-                            <a href="project" class="theme-btn full-btn">ดูทั้งหมด</a>
+                        <a href="project" class="theme-btn full-btn">ดูทั้งหมด</a>
 
-                        </div>
                     </div>
+                </div>
             </section>
 
             <!--Our Team-->

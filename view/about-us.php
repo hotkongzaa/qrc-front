@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Builder Construction Template | About Us</title>
+        <title>QRC | About Us</title>
         <!-- Stylesheets -->
         <?php include '../include/include_css.php'; ?>
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -16,7 +16,7 @@
             <div class="preloader"></div>
 
             <!--Main Banner-->
-            <section class="page-banner banner" style="background-image:url(../assets/images/parallax/banner-bg-1.jpg);">
+            <section class="page-banner banner" style="background-image:url(../assets/images/qrc_background.png);">
                 <!--Main Header-->
                 <header class="main-header">
                     <!--Top bar-->
@@ -144,7 +144,7 @@
                                 <div class="sec-icon fa fa-user img-circle"></div>
                                 <h2>Who We Are</h2>
                                 <div class="clearfix"></div>
-                                <div class="col-md-6 col-sm-6 col-xs-12 image"><img class="img-responsive" src="../assets/images/qrc_logo.png" alt="" width="500px" height="300px"></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12 image"><img class="img-responsive" src="../assets/images/qrc_logo_big.png" alt="" width="500px" height="300px"></div>
                                 <div class="col-md-6 col-sm-6 col-xs-12 text">
                                     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>บริษัท ควอลิตี้รูฟ แอนด์ คอนสตรัคชั่น จํากัด</strong> โดยคุณสวัสดิ์ วงษ์พรม ได้เริ่มต้นจากการดำเนินกิจการเป็นผู้ให้บริการติดตั้งโครงหลังคาสำเร็จรูป และติดตั้งแผ่นเชิงชาย โดยแรกเริ่มได้เป็น Partner ในการให้บริการติดตั้งโครงหลังคาให้กับบริษัทใหญ่ๆ หลายเจ้า อาทิเช่น SCG, Diamond Truss, Sansiri, Q-House, Land and House, Perfect Property, Prinsiri, Pruksa และอื่น ๆ โดยเจ้าของงานจะเป็นทั้งบ้านเดี่ยว และหมู่บ้านจัดสรรทั่วประเทศไทย</p>
                                     <br>
