@@ -90,7 +90,7 @@
     </div>
 
     <!--Bottom-->
-    <div class="bottom"><div class="auto-container">&copy; 2015 COPYRIGHT  TEMPLATE PATH 2015</div></div>
+    <div class="bottom"><div class="auto-container">&copy; 2015 by www.qrc.co.th. Developed by Quality Roof & Construction Co.,Ltd.</div></div>
 
 
 </footer>
