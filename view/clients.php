@@ -61,7 +61,7 @@
                                                             <li><a href="general-services">รับเหมาก่อสร้างทั่วไป</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li class="current"><a href="project" class="dropdown-toggle">Clients</a>
+                                                    <li class="current"><a href="clients" class="dropdown-toggle">Clients</a>
                                                     </li>
 
                                                     <li><a href="contact-us">Contact Us</a></li>
@@ -97,8 +97,8 @@
                 <div class="page-title">
                     <div class="auto-container">
                         <div class="row clearfix">
-                            <div class="col-md-6 col-sm-6 col-xs-12 pull-left"><h1>PROJECT</h1></div>
-                            <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="#">Home</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="#">Project</a></div>
+                            <div class="col-md-6 col-sm-6 col-xs-12 pull-left"><h1>CLIENTS</h1></div>
+                            <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="#">Home</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="#">Clients</a></div>
                         </div>
                     </div>
                 </div>
@@ -218,7 +218,7 @@
                                     <div class="link-icon"><a href="smile_land_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all parinsiri_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -227,7 +227,7 @@
                                     <div class="link-icon"><a href="parinsiri_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all golden_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -236,7 +236,7 @@
                                     <div class="link-icon"><a href="golden_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all suanluang_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -245,7 +245,7 @@
                                     <div class="link-icon"><a href="suanluang_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all sammakorn_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -254,7 +254,7 @@
                                     <div class="link-icon"><a href="sammakorn_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all keppel_thai_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -263,7 +263,7 @@
                                     <div class="link-icon"><a href="keppel_thai_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all lhm_property_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -272,7 +272,7 @@
                                     <div class="link-icon"><a href="lhm_property_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all the_balanz_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -281,7 +281,7 @@
                                     <div class="link-icon"><a href="the_balanz_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all natural_living_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -290,7 +290,7 @@
                                     <div class="link-icon"><a href="natural_living_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all golden_land_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -299,7 +299,7 @@
                                     <div class="link-icon"><a href="golden_land_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all metropolis_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -308,7 +308,7 @@
                                     <div class="link-icon"><a href="metropolis_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all enrich_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -317,7 +317,7 @@
                                     <div class="link-icon"><a href="enrich_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all suetrong_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -326,7 +326,7 @@
                                     <div class="link-icon"><a href="suetrong_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all the_estate_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
@@ -335,7 +335,7 @@
                                     <div class="link-icon"><a href="the_estate_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-							<!--Item-->
+                            <!--Item-->
                             <div class="mix mix_all samut_songkhram_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">

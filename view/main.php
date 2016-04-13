@@ -434,7 +434,7 @@
                             <li class="filter" data-role="button" data-filter="sansiri_project">แสนสิริ</li>
                             <li class="filter" data-role="button" data-filter="property_perfect_project">Property Perfect</li>
                             <li class="filter" data-role="button" data-filter="parinsiri_project">ปริญสิริ</li>
-                            <li class="filter" data-role="button" ><a href="project">ดูทั้งหมด...</a></li>                   
+                            <!--<li class="filter" data-role="button" ><a href="project">ดูทั้งหมด...</a></li>-->                   
                         </ul>
 
                         <!--Items Container-->
@@ -506,7 +506,7 @@
 
                         </div>
 
-                        <a href="project" class="theme-btn full-btn">ดูทั้งหมด</a>
+                        <a href="clients" class="theme-btn full-btn">ดูทั้งหมด</a>
 
                     </div>
                 </div>
