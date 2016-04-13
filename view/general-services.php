@@ -119,9 +119,9 @@
                             <nav class="service-nav col-md-3 col-sm-4 col-xs-12">
                                 <ul class="anim-5-all clearfix">
                                     <li><a href="services">บริการติดตั้ง โครงหลังคาสำหรับรูป เชิงชาย และมุงกระเบื้อง หรือ แผ่น Metal Sheet <span class="fa fa-angle-right pull-right"></span></a></li>
-                                    <li class="current"><a href="services-sales">จำหน่ายวัสดุก่อสร้างของ Thainanohouse <span class="fa fa-angle-right pull-right"></span></a></li>
+                                    <li class="services"><a href="services-sales">จำหน่ายวัสดุก่อสร้างของ Thainanohouse <span class="fa fa-angle-right pull-right"></span></a></li>
                                     <li class="services"><a href="nanohouse-services">รับเหมาก่อสร้างบ้าน นาโน เฮ้าส์ <span class="fa fa-angle-right pull-right"></span></a></li>
-                                    <li class="services"><a href="general-services">รับเหมาก่อสร้างทั่วไป <span class="fa fa-angle-right pull-right"></span></a></li>
+                                    <li class="current"><a href="general-services">รับเหมาก่อสร้างทั่วไป <span class="fa fa-angle-right pull-right"></span></a></li>
                                 </ul>
                             </nav>
 
@@ -133,16 +133,16 @@
                                     <div class="post-inner anim-5-all">
 
                                         <figure class="image">
-                                            <img src="../assets/images/services/Bullet02.jpg" alt="" title="">
+                                            <img src="../assets/images/services/Bullet04.jpg" alt="" title="">
                                             <div class="overlay anim-5-all"><div class="link-icon"><a href="javascript:void(0)" class="fa fa-link"></a></div></div>
                                         </figure>
                                         <div class="content">
-                                            <h3><a href="#">จำหน่ายวัสดุก่อสร้างของ Thainanohouse </a></h3>
+                                            <h3><a href="#">รับเหมาก่อสร้างทั่วไป</a></h3>
                                             <div class="description">
                                                 <ul>
-                                                <li style="list-style: circle !important; margin-left: 15px;">จำหน่ายอิฐบล๊อค นาโน (Nano Block)</li>
-                                                <li style="list-style: circle !important; margin-left: 15px;">โครงหลังคาสำเร็จรูป นาโน (Nano Truss)</li>
-                                                <li style="list-style: circle !important; margin-left: 15px;">วัสดุก่อสร้าง นาโน เฮ้าส์ รวมถึงสารส่วนผสม หรือ วัสดุสำเร็จรูปพร้อมใช้งานต่างๆ (Nano Concrete, Nano Strong Soil)</li>
+                                                <li style="list-style: circle !important; margin-left: 15px;">รับเหมาก่อสร้าง บ้าน อาคารพานิชย์ไม่เกิน 3 ชั้น</li>
+                                                <li style="list-style: circle !important; margin-left: 15px;">รับเหมาตั้งผนังคอนกรีตสำเร็จรูป (Precast) บ้าน หรือโครงการหมู่บ้านจัดสรร</li>
+                                                <li style="list-style: circle !important; margin-left: 15px;">รับเหมางานโครงสร้าง (เทคาน ฐานราก เสาเข็ม)</li>
                                                 </ul>
                                             </div>
                                         </div>

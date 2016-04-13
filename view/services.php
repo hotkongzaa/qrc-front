@@ -55,8 +55,10 @@
                                                     <li><a href="about-us">About Us</a></li>
                                                     <li class="dropdown current"><a href="services">Services</a>
                                                         <ul class="dropdown-menu" role="menu">
-                                                            <li><a href="services">งานด้านบริการ</a></li>
-                                                            <li><a href="services-sales">งานด้านการขาย</a></li>
+                                                            <li><a href="services">บริการติดตั้ง โครงหลังคา</a></li>
+                                                            <li><a href="services-sales">จำหน่ายวัสดุก่อสร้าง</a></li>
+                                                            <li><a href="nanohouse-services">บ้าน นาโน เฮ้าส์</a></li>
+                                                            <li><a href="general-services">รับเหมาก่อสร้างทั่วไป</a></li>
                                                         </ul>
                                                     </li>
                                                     <li class="dropdown">
@@ -116,8 +118,10 @@
                             <!--Service Nav-->
                             <nav class="service-nav col-md-3 col-sm-4 col-xs-12">
                                 <ul class="anim-5-all clearfix">
-                                    <li class="current"><a href="services">งานด้านบริการ <span class="fa fa-angle-right pull-right"></span></a></li>
-                                    <li><a href="services-sales">งานด้านการขาย <span class="fa fa-angle-right pull-right"></span></a></li>
+                                    <li class="current"><a href="services">บริการติดตั้ง โครงหลังคาสำหรับรูป เชิงชาย และมุงกระเบื้อง หรือ แผ่น Metal Sheet <span class="fa fa-angle-right pull-right"></span></a></li>
+                                    <li><a href="services-sales">จำหน่ายวัสดุก่อสร้างของ Thainanohouse <span class="fa fa-angle-right pull-right"></span></a></li>
+                                    <li class="services"><a href="nanohouse-services">รับเหมาก่อสร้างบ้าน นาโน เฮ้าส์ <span class="fa fa-angle-right pull-right"></span></a></li>
+                                    <li class="services"><a href="general-services">รับเหมาก่อสร้างทั่วไป <span class="fa fa-angle-right pull-right"></span></a></li>
                                 </ul>
                             </nav>
 
@@ -129,18 +133,17 @@
                                     <div class="post-inner anim-5-all">
 
                                         <figure class="image">
-                                            <img src="../assets/images/resource/service-post-image-1.jpg" alt="" title="">
-                                            <div class="overlay anim-5-all"><div class="link-icon"><a href="blog-detail.html" class="fa fa-link"></a></div></div>
+                                            <img src="../assets/images/services/Bullet01.jpg" alt="" title="">
+                                            <div class="overlay anim-5-all"><div class="link-icon"><a href="javascript:void(0)" class="fa fa-link"></a></div></div>
                                         </figure>
                                         <div class="content">
-                                            <h3><a href="#">งานด้านบริการ </a></h3>
+                                            <h3><a href="#">บริการติดตั้ง โครงหลังคาสำหรับรูป เชิงชาย และมุงกระเบื้อง หรือ แผ่น Metal Sheet</a></h3>
                                             <div class="description">
-                                                <p>>> เป็นผู้ให้บริการติดตั้งงานโครงหลังคา เชิงชาย</p>
-                                                <p>>> เป็นผู้ให้บริการติดตั้งงาน Mockup office</p>
-                                                <p>>> เป็นผู้ให้บริการงานมุงกระเบื้องบ้านเดี่ยว และมุงแผ่น metal sheet ตามโรงงาน โกดังสินค้าขนาดใหญ่</p>
-                                                <p>>> รับเหมาตั้งแผ่นสำเร็จรูปตามโครงการ หมู่บ้านจัดสรร</p>
-                                                <p>>> รับเหมางานเทคาน ฐานราก เสาเข็ม</p>
-                                                <p>>> รับเหมาก่อสร้างบ้าน อาคารพาณิชย์ไม่เกิน 3 ชั้น</p>
+                                                <ul>
+                                                <li style="list-style: circle !important; margin-left: 15px;">บริการติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li style="list-style: circle !important; margin-left: 15px;">บริการติดตั้งเชิงชาย</li>
+                                                <li style="list-style: circle !important; margin-left: 15px;">บริการมุงกระเบื้อง หรือมุงแผ่น Metal Sheet บ้าน โรงงาน หรือโกดังสินค้าขนาดใหญ่</li>
+                                                </ul>
                                             </div>
 
                                         </div>

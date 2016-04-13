@@ -60,8 +60,10 @@
                                                     <li class="dropdown">
                                                         <a href="services">Services</a>
                                                         <ul class="dropdown-menu" role="menu">
-                                                            <li><a href="services">งานด้านบริการ</a></li>
-                                                            <li><a href="services-sales">งานด้านการขาย</a></li>
+                                                            <li><a href="services">บริการติดตั้ง โครงหลังคา</a></li>
+                                                            <li><a href="services-sales">จำหน่ายวัสดุก่อสร้าง</a></li>
+                                                            <li><a href="nanohouse-services">บ้าน นาโน เฮ้าส์</a></li>
+                                                            <li><a href="general-services">รับเหมาก่อสร้างทั่วไป</a></li>
                                                         </ul>
                                                     </li>
                                                     <li>
@@ -335,7 +337,7 @@
                 <div class="auto-container">
                     <div class="container-box anim-5-all clearfix">
                         <div class="col-lg-4">
-                            <img src="../assets/images/our-services/man.png" alt="">
+                            <img src="../assets/images/services/our_services_02.jpg" alt="">
                         </div>
                         <div class="col-lg-8">
                             <header class="sec-title text-left style-two">
@@ -346,8 +348,14 @@
                                     <div class="border">                        
                                         <i class="flaticon flaticon-draft"></i>
                                         <div class="content">
-                                            <h4>งานด้านบริการ</h4>
-                                            <p>เป็นผู้ให้บริการติดตั้งงานโครงหลังคา เชิงชายและให้บริการติดตั้งงาน Mockup office</p>
+                                            <p style="font-size:14px;">
+                                                <strong>บริการติดตั้ง โครงหลังคาสำหรับรูป เชิงชาย และมุงกระเบื้อง หรือ แผ่น Metal Sheet</strong>
+                                            </p>
+                                            <ul>
+                                                <li style="list-style: circle !important; margin-left: 15px;">บริการติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li style="list-style: circle !important; margin-left: 15px;">บริการติดตั้งเชิงชาย</li>
+                                                <li style="list-style: circle !important; margin-left: 15px;">บริการมุงกระเบื้อง หรือมุงแผ่น Metal Sheet บ้าน โรงงาน หรือโกดังสินค้าขนาดใหญ่</li>
+                                            </ul>
                                             <a href="#">เพิ่มเติม...</a>
                                         </div>
                                     </div>
@@ -356,8 +364,44 @@
                                     <div class="border">                        
                                         <i class="flaticon flaticon-barrow"></i> 
                                         <div class="content">
-                                            <h4>งานด้านการขาย</h4>
-                                            <p>ขายโครงหลังคาสำเร็จรูป ขายเหล็กเส้นรีดเย็น</p>
+                                            <p style="font-size:14px;">
+                                                <strong>จำหน่ายวัสดุก่อสร้างของ Thainanohouse</strong>
+                                            </p>
+                                            <ul>
+                                                <li style="list-style: circle !important; margin-left: 15px;">จำหน่ายอิฐบล๊อค นาโน (Nano Block)</li>
+                                                <li style="list-style: circle !important; margin-left: 15px;">โครงหลังคาสำเร็จรูป นาโน (Nano Truss)</li>
+                                                <li style="list-style: circle !important; margin-left: 15px;">วัสดุก่อสร้าง นาโน เฮ้าส์ รวมถึงสารส่วนผสม หรือ วัสดุสำเร็จรูปพร้อมใช้งานต่างๆ (Nano Concrete, Nano Strong Soil)</li>
+                                            </ul>
+                                            <a href="#">เพิ่มเติม...</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 single-service-style-three skew-right-one link-to-services" onclick="window.location.href = 'nanohouse-services'">
+                                    <div class="border">                        
+                                        <i class="flaticon flaticon-draft"></i>
+                                        <div class="content">
+                                            <p style="font-size:14px;">
+                                                <strong>รับเหมาก่อสร้างบ้าน นาโน เฮ้าส์</strong>
+                                            </p>
+                                            <ul>
+                                                <li style="list-style: circle !important; margin-left: 15px;">รับเหมาก่อสร้างบ้าน โดยใช้วัสดุ และระบบการก่อสร้างของ บ้าน นาโน เฮ้าส์</li>
+                                            </ul>
+                                            <a href="#">เพิ่มเติม...</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 single-service-style-three skew-left-one link-to-services" onclick="window.location.href = 'general-services'">
+                                    <div class="border">                        
+                                        <i class="flaticon flaticon-barrow"></i> 
+                                        <div class="content">
+                                            <p style="font-size:14px;">
+                                                <strong>รับเหมาก่อสร้างทั่วไป</strong>
+                                            </p>
+                                            <ul>
+                                                <li style="list-style: circle !important; margin-left: 15px;">รับเหมาก่อสร้าง บ้าน อาคารพานิชย์ไม่เกิน 3 ชั้น</li>
+                                                <li style="list-style: circle !important; margin-left: 15px;">รับเหมาตั้งผนังคอนกรีตสำเร็จรูป (Precast) บ้าน หรือโครงการหมู่บ้านจัดสรร</li>
+                                                <li style="list-style: circle !important; margin-left: 15px;">รับเหมางานโครงสร้าง (เทคาน ฐานราก เสาเข็ม)</li>
+                                            </ul>
                                             <a href="#">เพิ่มเติม...</a>
                                         </div>
                                     </div>
