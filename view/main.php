@@ -67,7 +67,7 @@
                                                         </ul>
                                                     </li>
                                                     <li>
-                                                        <a href="project" class="dropdown-toggle">Project</a>
+                                                        <a href="clients" class="dropdown-toggle">Clients</a>
                                                     </li>
                                                     <li>
                                                         <a href="contact-us">Contact Us</a>
@@ -337,7 +337,7 @@
                 <div class="auto-container">
                     <div class="container-box anim-5-all clearfix">
                         <div class="col-lg-4">
-                            <img src="../assets/images/services/our_services_02.jpg" alt="">
+                            <img src="../assets/images/services/our_services_03.jpg" alt="">
                         </div>
                         <div class="col-lg-8">
                             <header class="sec-title text-left style-two">
@@ -423,16 +423,17 @@
                     <div class="row">
                         <!--Section Title-->
                         <header class="sec-title">
-                            <span class="double-line"></span> &ensp; <h1>Project</h1> &ensp; <span class="double-line"></span>
+                            <span class="double-line"></span> &ensp; <h1>Clients</h1> &ensp; <span class="double-line"></span>
                         </header>
                         <!--Filters-->
                         <ul class="filter-tabs style-two anim-3-all">
                             <li class="filter" data-role="button" data-filter="all">ทั้งหมด</li>
-                            <li class="filter" data-role="button" data-filter="north_land_project">นอร์ธแลนด์ ดีวีลอปเม้นท์</li>
-                            <li class="filter" data-role="button" data-filter="quality_house_project">ควอลิตี้ เฮ้าส์</li>
-                            <li class="filter" data-role="button" data-filter="kanda_project">กานดากรุ๊ป</li>
                             <li class="filter" data-role="button" data-filter="pruksa_project">พฤกษา เรียล เอสเตท</li>
+                            <li class="filter" data-role="button" data-filter="land_and_house_project">Land & House</li>
+                            <li class="filter" data-role="button" data-filter="quality_house_project">ควอลิตี้ เฮ้าส์</li>
                             <li class="filter" data-role="button" data-filter="sansiri_project">แสนสิริ</li>
+                            <li class="filter" data-role="button" data-filter="property_perfect_project">Property Perfect</li>
+                            <li class="filter" data-role="button" data-filter="parinsiri_project">ปริญสิริ</li>
                             <li class="filter" data-role="button" ><a href="project">ดูทั้งหมด...</a></li>                   
                         </ul>
 
@@ -446,6 +447,26 @@
                                     <div class="pop-icon"><a href="../assets/images/project/logo_pruksa_thai_368x240.jpg" data-rel="prettyPhoto" title="Architecture" class="fa fa-camera"></a></div>
                                     <div class="title"><span>พฤกษา เรียล เอสเตท</span></div>
                                     <div class="link-icon"><a href="pruksa_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+                            
+                            <!--Item-->
+                            <div class="mix mix_all land_and_house_projectt">
+                                <figure class="image"><img src="../assets/images/project/logo_landandhouse_368x240.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/project/logo_landandhouse_368x240.jpg" data-rel="prettyPhoto" title="Flat" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>Land & House</span></div>
+                                    <div class="link-icon"><a href="land_and_house_project" class="fa fa-link"></a></div>
+                                </div>
+                            </div>
+                            
+                            <!--Item-->
+                            <div class="mix mix_all quality_house_project">
+                                <figure class="image"><img src="../assets/images/project/logo_qhouse_368x240.jpg" alt="" title=""></figure>
+                                <div class="overlay anim-5-all">
+                                    <div class="pop-icon"><a href="../assets/images/project/logo_qhouse_368x240.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>Quality House</span></div>
+                                    <div class="link-icon"><a href="quality_house_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
 
@@ -474,32 +495,12 @@
                             </div>
 
                             <!--Item-->
-                            <div class="mix mix_all quality_house_project">
-                                <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
+                            <div class="mix mix_all parinsiri_project">
+                                <figure class="image"><img src="../assets/images/project/logo_prinsiri_368x240.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
-                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>Quality House</span></div>
-                                    <div class="link-icon"><a href="quality_house_project" class="fa fa-link"></a></div>
-                                </div>
-                            </div>
-
-                            <!--Item-->
-                            <div class="mix mix_all north_land_project">
-                                <figure class="image"><img src="../assets/images/resource/project-image-5.jpg" alt="" title=""></figure>
-                                <div class="overlay anim-5-all">
-                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-5.jpg" data-rel="prettyPhoto" title="School" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>นอร์ธแลนด์ ดีวีลอปเม้นท์</span></div>
-                                    <div class="link-icon"><a href="north_land_project" class="fa fa-link"></a></div>
-                                </div>
-                            </div>
-
-                            <!--Item-->
-                            <div class="mix mix_all kanda_project">
-                                <figure class="image"><img src="../assets/images/resource/project-image-6.jpg" alt="" title=""></figure>
-                                <div class="overlay anim-5-all">
-                                    <div class="pop-icon"><a href="../assets/images/resource/project-image-6.jpg" data-rel="prettyPhoto" title="Flat" class="fa fa-camera"></a></div>
-                                    <div class="title"><span>กานดากรุ๊ป</span></div>
-                                    <div class="link-icon"><a href="kanda_project" class="fa fa-link"></a></div>
+                                    <div class="pop-icon"><a href="../assets/images/project/logo_prinsiri_368x240.jpg" data-rel="prettyPhoto" title="School" class="fa fa-camera"></a></div>
+                                    <div class="title"><span>ปริญสิริ</span></div>
+                                    <div class="link-icon"><a href="parinsiri_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
 

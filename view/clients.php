@@ -55,11 +55,13 @@
                                                     <li><a href="about-us">About Us</a></li>
                                                     <li class="dropdown"><a href="services">Services</a>
                                                         <ul class="dropdown-menu" role="menu">
-                                                            <li><a href="services">งานด้านบริการ</a></li>
-                                                            <li><a href="services-sales">งานด้านการขาย</a></li>
+                                                            <li><a href="services">บริการติดตั้ง โครงหลังคา</a></li>
+                                                            <li><a href="services-sales">จำหน่ายวัสดุก่อสร้าง</a></li>
+                                                            <li><a href="nanohouse-services">บ้าน นาโน เฮ้าส์</a></li>
+                                                            <li><a href="general-services">รับเหมาก่อสร้างทั่วไป</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li class="current"><a href="project" class="dropdown-toggle">Project</a>
+                                                    <li class="current"><a href="project" class="dropdown-toggle">Clients</a>
                                                     </li>
 
                                                     <li><a href="contact-us">Contact Us</a></li>
