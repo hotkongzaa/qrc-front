@@ -140,7 +140,7 @@
                                          data-speed="700"
                                          data-start="1500"
                                          data-easing="easeOutExpo">
-                                        <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
+                                        <a href="javascript:void(0)" class="theme-btn dark-btn">LEARN MORE</a>
                                     </div>
                                     <div class="caption fade image right"
                                          data-x="right"
@@ -184,7 +184,7 @@
                                          data-speed="700"
                                          data-start="1500"
                                          data-easing="easeOutExpo">
-                                        <!--a href="#" class="theme-btn theme-color">BUY NOW</a--> &ensp; <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
+                                        <!--a href="javascript:void(0)" class="theme-btn theme-color">BUY NOW</a--> &ensp; <a href="javascript:void(0)" class="theme-btn dark-btn">LEARN MORE</a>
                                     </div>
                                 </li>
 
@@ -223,7 +223,7 @@
                                          data-speed="700"
                                          data-start="1500"
                                          data-easing="easeOutExpo">
-                                        <a href="#" class="theme-btn dark-btn">LEARN MORE</a>
+                                        <a href="javascript:void(0)" class="theme-btn dark-btn">LEARN MORE</a>
                                     </div>
                                     <div class="caption fade image left"
                                          data-x="left"
@@ -263,14 +263,14 @@
                                 <img src="../assets/images/bullet/qualitywork.png" alt="">
                                 <div class="overlay">
                                     <div class="link">
-                                        <a href="#" class="fa fa-link"></a>
+                                        <a href="javascript:void(0)" class="fa fa-link"></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="content" style="padding-bottom: 54px !important;">
                                 <h3>Quality Work</h3>
                                 <p>ผลงานคุณภาพ : เรามีการตรวจสอบคุณภาพในทุกขั้นตอนเป็นระบบอย่างพิถีพิถัน สามารถตรวจสอบได้ในทุกขั้นตอนการทำงาน โดยวิศวกรและทีมงานที่มีความเชียวชาญ </p>
-                                <!--<a href="#">Read More</a>-->
+                                <!--<a href="javascript:void(0)">Read More</a>-->
                             </div>
                         </div>
                         <div class="col-lg-6 single-what-we-do clearfix">
@@ -278,14 +278,14 @@
                                 <img src="../assets/images/bullet/trustedworker.png" alt="">
                                 <div class="overlay">
                                     <div class="link">
-                                        <a href="#" class="fa fa-link"></a>
+                                        <a href="javascript:void(0)" class="fa fa-link"></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="content">
                                 <h3>Trusted Worker</h3>
                                 <p>ทีมงานคุณภาพที่เชื่อถือได้ : เรามีทีมงานก่อสร้างประสบการณ์สูง ที่มีความเข้าใจในกระบวนการและขั้นตอนในการก่อสร้าง และมีทีมตรวจสอบคุณภาพที่เชี่ยวชาญในการก่อสร้างบ้าน และงานวิศวกรรมก่อสร้าง </p>
-                                <!--<a href="#">Read More</a>-->
+                                <!--<a href="javascript:void(0)">Read More</a>-->
                             </div>
                         </div>
                         <div class="col-lg-6 single-what-we-do clearfix content-left">
@@ -293,14 +293,14 @@
                                 <img src="../assets/images/bullet/NanoTechnology.png" alt="">
                                 <div class="overlay">
                                     <div class="link">
-                                        <a href="#" class="fa fa-link"></a>
+                                        <a href="javascript:void(0)" class="fa fa-link"></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="content">
                                 <h3>Nano Technology</h3>
                                 <p>นาโนเทคโนโลยี : เรานำเทคโนโลยีนาโน  มาใช้ในพัฒนา และสร้างวัสดุก่อสร้าง เพื่อใช้ในงานก่อสร้าง ทำให้ได้บ้านที่มีคุณภาพสูง ประหยัดพลังงาน และเป็นมิตรกับสิ่งแวดล้อม </p>
-                                <!--<a href="#">Read More</a>-->
+                                <!--<a href="javascript:void(0)">Read More</a>-->
                             </div>
                         </div>
                         <div class="col-lg-6 single-what-we-do clearfix content-left">
@@ -308,14 +308,14 @@
                                 <img src="../assets/images/bullet/expertengineer.png" alt="">
                                 <div class="overlay">
                                     <div class="link">
-                                        <a href="#" class="fa fa-link"></a>
+                                        <a href="javascript:void(0)" class="fa fa-link"></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="content">
                                 <h3>Expert Engineer</h3>
                                 <p>เรามีวิศวกรผู้เชี่ยวชาญในการตรวจสอบ และควบคุมงานก่อสร้าง ณ ไซต์งาน ซึ่งจะเป็นผู้ควบคุมดูแลคุณภาพมาตรฐานงานก่อสร้างตลอดระยะเวลาการสร้างบ้าน โดยสามารถแก้ไขปัญหาที่เกิดขึ้นในระหว่างดำเนินงาน และเป็นที่ปรึกษาให้กับลูกค้าในระหว่างก่อสร้างได้เป็นอย่างดี </p>
-                                <!--<a href="#">Read More</a>-->
+                                <!--<a href="javascript:void(0)">Read More</a>-->
                             </div>
                         </div>
 
@@ -330,7 +330,7 @@
             <!--section class="our-history parallax-section text-center" style="background-image:url(../assets/images/parallax/parallax-image-1.jpg);">
                 <h3>We are since 1975</h3>
                 <h1>The starting point of all achievement is desire</h1>
-                <a href="#" class="theme-btn full-btn">Buy Now</a>
+                <a href="javascript:void(0)" class="theme-btn full-btn">Buy Now</a>
             </section-->
 
             <section class="our-services style-three">
@@ -346,7 +346,7 @@
                             <div class="service-style-three-wrap">
                                 <div class="col-lg-6 single-service-style-three skew-right-one link-to-services" onclick="window.location.href = 'services'">
                                     <div class="border">                        
-                                        <i class="flaticon flaticon-draft"></i>
+                                        <i class="flaticon flaticon-forklift2"></i>
                                         <div class="content">
                                             <p style="font-size:14px;">
                                                 <strong>บริการติดตั้ง โครงหลังคาสำหรับรูป เชิงชาย และมุงกระเบื้อง หรือ แผ่น Metal Sheet</strong>
@@ -356,7 +356,7 @@
                                                 <li style="list-style: circle !important; margin-left: 15px;">บริการติดตั้งเชิงชาย</li>
                                                 <li style="list-style: circle !important; margin-left: 15px;">บริการมุงกระเบื้อง หรือมุงแผ่น Metal Sheet บ้าน โรงงาน หรือโกดังสินค้าขนาดใหญ่</li>
                                             </ul>
-                                            <a href="#">เพิ่มเติม...</a>
+                                            <a href="javascript:void(0)">เพิ่มเติม...</a>
                                         </div>
                                     </div>
                                 </div>
@@ -372,27 +372,31 @@
                                                 <li style="list-style: circle !important; margin-left: 15px;">โครงหลังคาสำเร็จรูป นาโน (Nano Truss)</li>
                                                 <li style="list-style: circle !important; margin-left: 15px;">วัสดุก่อสร้าง นาโน เฮ้าส์ รวมถึงสารส่วนผสม หรือ วัสดุสำเร็จรูปพร้อมใช้งานต่างๆ (Nano Concrete, Nano Strong Soil)</li>
                                             </ul>
-                                            <a href="#">เพิ่มเติม...</a>
+                                            <a href="javascript:void(0)">เพิ่มเติม...</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 single-service-style-three skew-right-one link-to-services" onclick="window.location.href = 'nanohouse-services'">
                                     <div class="border">                        
-                                        <i class="flaticon flaticon-draft"></i>
+                                        <i class="flaticon flaticon-houses30"></i>
                                         <div class="content">
                                             <p style="font-size:14px;">
                                                 <strong>รับเหมาก่อสร้างบ้าน นาโน เฮ้าส์</strong>
                                             </p>
                                             <ul>
                                                 <li style="list-style: circle !important; margin-left: 15px;">รับเหมาก่อสร้างบ้าน โดยใช้วัสดุ และระบบการก่อสร้างของ บ้าน นาโน เฮ้าส์</li>
+                                                <li>&nbsp;</li>
+                                                <li>&nbsp;</li>
+                                                <li>&nbsp;</li>
+                                                <li>&nbsp;</li>
                                             </ul>
-                                            <a href="#">เพิ่มเติม...</a>
+                                            <a href="javascript:void(0)">เพิ่มเติม...</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 single-service-style-three skew-left-one link-to-services" onclick="window.location.href = 'general-services'">
                                     <div class="border">                        
-                                        <i class="flaticon flaticon-barrow"></i> 
+                                        <i class="flaticon flaticon-roller1"></i> 
                                         <div class="content">
                                             <p style="font-size:14px;">
                                                 <strong>รับเหมาก่อสร้างทั่วไป</strong>
@@ -402,7 +406,7 @@
                                                 <li style="list-style: circle !important; margin-left: 15px;">รับเหมาตั้งผนังคอนกรีตสำเร็จรูป (Precast) บ้าน หรือโครงการหมู่บ้านจัดสรร</li>
                                                 <li style="list-style: circle !important; margin-left: 15px;">รับเหมางานโครงสร้าง (เทคาน ฐานราก เสาเข็ม)</li>
                                             </ul>
-                                            <a href="#">เพิ่มเติม...</a>
+                                            <a href="javascript:void(0)">เพิ่มเติม...</a>
                                         </div>
                                     </div>
                                 </div>
@@ -526,7 +530,7 @@
                             <h4>CEO</h4>
                             <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
                             <div class="social">
-                                <a href="#" class="fa fa-facebook-f"></a> &ensp; <a href="#" class="fa fa-twitter"></a> &ensp; <a href="#" class="fa fa-google-plus"></a> &ensp; <a href="#" class="fa fa-linkedin"></a>
+                                <a href="javascript:void(0)" class="fa fa-facebook-f"></a> &ensp; <a href="javascript:void(0)" class="fa fa-twitter"></a> &ensp; <a href="javascript:void(0)" class="fa fa-google-plus"></a> &ensp; <a href="javascript:void(0)" class="fa fa-linkedin"></a>
                             </div>
                         </article>
 
@@ -539,7 +543,7 @@
                             <h4>Architect</h4>
                             <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
                             <div class="social">
-                                <a href="#" class="fa fa-facebook-f"></a> &ensp; <a href="#" class="fa fa-twitter"></a> &ensp; <a href="#" class="fa fa-google-plus"></a> &ensp; <a href="#" class="fa fa-linkedin"></a>
+                                <a href="javascript:void(0)" class="fa fa-facebook-f"></a> &ensp; <a href="javascript:void(0)" class="fa fa-twitter"></a> &ensp; <a href="javascript:void(0)" class="fa fa-google-plus"></a> &ensp; <a href="javascript:void(0)" class="fa fa-linkedin"></a>
                             </div>
                         </article>
 
@@ -552,7 +556,7 @@
                             <h4>Site Engineer</h4>
                             <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
                             <div class="social">
-                                <a href="#" class="fa fa-facebook-f"></a> &ensp; <a href="#" class="fa fa-twitter"></a> &ensp; <a href="#" class="fa fa-google-plus"></a> &ensp; <a href="#" class="fa fa-linkedin"></a>
+                                <a href="javascript:void(0)" class="fa fa-facebook-f"></a> &ensp; <a href="javascript:void(0)" class="fa fa-twitter"></a> &ensp; <a href="javascript:void(0)" class="fa fa-google-plus"></a> &ensp; <a href="javascript:void(0)" class="fa fa-linkedin"></a>
                             </div>
                         </article>
 
@@ -565,7 +569,7 @@
                             <h4>Quality Manager</h4>
                             <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
                             <div class="social">
-                                <a href="#" class="fa fa-facebook-f"></a> &ensp; <a href="#" class="fa fa-twitter"></a> &ensp; <a href="#" class="fa fa-google-plus"></a> &ensp; <a href="#" class="fa fa-linkedin"></a>
+                                <a href="javascript:void(0)" class="fa fa-facebook-f"></a> &ensp; <a href="javascript:void(0)" class="fa fa-twitter"></a> &ensp; <a href="javascript:void(0)" class="fa fa-google-plus"></a> &ensp; <a href="javascript:void(0)" class="fa fa-linkedin"></a>
                             </div>
                         </article>
 
@@ -655,25 +659,25 @@
                     <div class="row anim-5-all clearfix">
                         <div class="client-carsoule">
                             <div class="slide-item">
-                                <a href="#"><img src="../assets/images/partner/scg.jpg" alt="" title="scg"></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/scg.jpg" alt="" title="scg"></a>
                             </div>
                             <div class="slide-item">
-                                <a href="#"><img src="../assets/images/partner/ตราเพชร_new.png" alt="" title="ตราเพชร"></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/ตราเพชร_new.png" alt="" title="ตราเพชร"></a>
                             </div>       
                             <div class="slide-item">
-                                <a href="#"><img src="../assets/images/partner/qrc_logo.png" alt="" title=""></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/qrc_logo.png" alt="" title=""></a>
                             </div>
                             <div class="slide-item">
-                                <a href="#"><img src="../assets/images/partner/สามชัย_วายเคจำกัด.jpg" alt="" title=""></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/สามชัย_วายเคจำกัด.jpg" alt="" title=""></a>
                             </div>
                             <div class="slide-item">
-                                <a href="#"><img src="../assets/images/partner/แสนสิริ-จำกัด-มหาชน-logo_large.jpg" alt="" title=""></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/แสนสิริ-จำกัด-มหาชน-logo_large.jpg" alt="" title=""></a>
                             </div> 
                             <div class="slide-item">
-                                <a href="#"><img src="../assets/images/partner/Logo_pruksa-thai_cs2.png" alt="" title=""></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/Logo_pruksa-thai_cs2.png" alt="" title=""></a>
                             </div>
                             <div class="slide-item">
-                                <a href="#"><img src="../assets/images/partner/Property perfect.png" alt="" title=""></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/Property perfect.png" alt="" title=""></a>
                             </div>
                         </div>
                         <!--logos-->

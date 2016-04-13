@@ -204,7 +204,27 @@
     </body>
     <script type="text/javascript">
         $(document).ready(function () {
-
+            //Form Validation
+            if ($('#contact-form').length) {
+                $('#contact-form').validate({// initialize the plugin
+                    rules: {
+                        name: {
+                            required: true
+                        },
+                        email: {
+                            required: true,
+                            email: true
+                        },
+                        phone: {
+                            required: false
+                        }
+                    },
+                    submitHandler: function (form) {
+                        alert('Form Submitted');
+                        return true;
+                    }
+                });
+            }
         });
     </script>
 </html>
