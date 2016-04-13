@@ -128,9 +128,11 @@
                                         <fieldset class="form-group">
                                             <input type="text" name="phone" value="" placeholder="Phone Number ( Optional ) ">
                                         </fieldset>
-
                                         <fieldset class="form-group">
-                                            <textarea placeholder="Message"></textarea>
+                                            <input type="text" id="subject" name="subject" value="" placeholder="Subject *">
+                                        </fieldset>
+                                        <fieldset class="form-group">
+                                            <textarea placeholder="Message" name="message"></textarea>
                                         </fieldset>
 
                                         <input type="submit" name="submit" value="Send">
@@ -215,12 +217,29 @@
                             required: true,
                             email: true
                         },
+                        subject: {
+                            required: true,
+                        },
                         phone: {
                             required: false
                         }
                     },
                     submitHandler: function (form) {
-                        alert('Form Submitted');
+                        var formEle = $(form).serialize();
+                        $.ajax({
+                            url: "SendingEmailContactUs.php?" + formEle,
+                            type: 'POST',
+                            beforeSend: function (xhr) {
+                                $(".preloader").css("display", "block");
+                            }, success: function (data, textStatus, jqXHR) {
+                                $(".preloader").css("display", "none");
+                                if (data == 200) {
+
+                                } else {
+                                    console.log(data);
+                                }
+                            }
+                        });
                         return true;
                     }
                 });
