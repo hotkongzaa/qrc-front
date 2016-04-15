@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>QRC | The Confidence</title>
+        <title>QRC | Land & House</title>
         <!-- Stylesheets -->
         <?php include '../include/include_css.php'; ?>
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -55,11 +55,13 @@
                                                     <li><a href="about-us">About Us</a></li>
                                                     <li class="dropdown"><a href="services">Services</a>
                                                         <ul class="dropdown-menu" role="menu">
-                                                            <li><a href="services">งานด้านบริการ</a></li>
-                                                            <li><a href="services-sales">งานด้านการขาย</a></li>
+                                                            <li><a href="services">บริการติดตั้ง โครงหลังคา</a></li>
+                                                            <li><a href="services-sales">จำหน่ายวัสดุก่อสร้าง</a></li>
+                                                            <li><a href="nanohouse-services">บ้าน นาโน เฮ้าส์</a></li>
+                                                            <li><a href="general-services">รับเหมาก่อสร้างทั่วไป</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li class="current"><a href="project" class="dropdown-toggle">Project</a>
+                                                    <li class="current"><a href="clients" class="dropdown-toggle">Clients</a>
                                                     </li>
 
                                                     <li><a href="contact-us">Contact Us</a></li>
@@ -95,8 +97,8 @@
                 <div class="page-title">
                     <div class="auto-container">
                         <div class="row clearfix">
-                            <div class="col-md-6 col-sm-6 col-xs-12 pull-left"><h1>The Confidence</h1></div>
-                            <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="main">Home</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="project">Project</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="#">The Confidence Project</a></div>
+                            <div class="col-md-6 col-sm-6 col-xs-12 pull-left"><h1>Land & House</h1></div>
+                            <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="main">Home</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="project">Project</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="#">Land & House Project</a></div>
                         </div>
                     </div>
                 </div>
@@ -176,7 +178,7 @@
                                 <!--Right-->
                                 <div class="right col-md-12 col-sm-12 col-xs-12">
                                     <h3>ชื่อลูกค้า</h3>
-                                    <p class="li_span_font_size">: : The Confidence</p>
+                                    <p class="li_span_font_size">: : Land & House</p>
 
                                     <hr>
                                     <br>
@@ -187,7 +189,7 @@
                                             <!--p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                             <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p-->   
                                             <ul>
-                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>ทรัสต์วิลล์ กาญจนาภิเษก-หทัยราษฎร์</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>ยังไม่มีข้อมูล</strong></li>
                                             </ul>
                                             <style>
                                                 .li_span_font_size{
@@ -195,9 +197,9 @@
                                                 }
                                             </style>									
                                         </div>
-                                        <div class="col-md-5 col-sm-5 col-xs-12">
+<!--                                        <div class="col-md-5 col-sm-5 col-xs-12">
                                             <img class="img-responsive" src="../assets/images/resource/single-project-image-5.jpg" alt="" title="">
-                                        </div>
+                                        </div>-->
                                     </div>
 
                                 </div>

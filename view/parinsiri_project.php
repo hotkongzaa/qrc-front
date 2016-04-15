@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>QRC | Parinsiri</title>
+        <title>QRC | Prinsiri</title>
         <!-- Stylesheets -->
         <?php include '../include/include_css.php'; ?>
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -55,11 +55,13 @@
                                                     <li><a href="about-us">About Us</a></li>
                                                     <li class="dropdown"><a href="services">Services</a>
                                                         <ul class="dropdown-menu" role="menu">
-                                                            <li><a href="services">งานด้านบริการ</a></li>
-                                                            <li><a href="services-sales">งานด้านการขาย</a></li>
+                                                            <li><a href="services">บริการติดตั้ง โครงหลังคา</a></li>
+                                                            <li><a href="services-sales">จำหน่ายวัสดุก่อสร้าง</a></li>
+                                                            <li><a href="nanohouse-services">บ้าน นาโน เฮ้าส์</a></li>
+                                                            <li><a href="general-services">รับเหมาก่อสร้างทั่วไป</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li class="current"><a href="project" class="dropdown-toggle">Project</a>
+                                                    <li class="current"><a href="clients" class="dropdown-toggle">Clients</a>
                                                     </li>
 
                                                     <li><a href="contact-us">Contact Us</a></li>
@@ -96,7 +98,7 @@
                     <div class="auto-container">
                         <div class="row clearfix">
                             <div class="col-md-6 col-sm-6 col-xs-12 pull-left"><h1>ปริญสิริ</h1></div>
-                            <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="main">Home</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="project">Project</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="#">Parinsiri Project</a></div>
+                            <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="main">Home</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="project">Project</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="#">Prinsiri Project</a></div>
                         </div>
                     </div>
                 </div>
