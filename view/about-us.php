@@ -57,13 +57,17 @@
                                                     <li class="current">
                                                         <a href="about-us">About Us</a>
                                                     </li>
-                                                    <li class="dropdown"><a href="services">Services</a>
+                                                    <li class="dropdown">
+                                                        <a href="services">Services</a>
                                                         <ul class="dropdown-menu" role="menu">
-                                                            <li><a href="services">งานด้านบริการ</a></li>
-                                                            <li><a href="services-sales">งานด้านการขาย</a></li>
+                                                            <li><a href="services">บริการติดตั้ง โครงหลังคา</a></li>
+                                                            <li><a href="services-sales">จำหน่ายวัสดุก่อสร้าง</a></li>
+                                                            <li><a href="nanohouse-services">บ้าน นาโน เฮ้าส์</a></li>
+                                                            <li><a href="general-services">รับเหมาก่อสร้างทั่วไป</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li class="dropdown"><a href="project" class="dropdown-toggle">Project</a>
+                                                    <li class="dropdown">
+                                                        <a href="clients" class="dropdown-toggle">Clients</a>
                                                     </li>                                        
                                                     <li>
                                                         <a href="contact-us">Contact Us</a>
@@ -142,22 +146,47 @@
                                 <div class="clearfix"></div>                        
 
                                 <article class="service-box col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                                    <figure class="icon img-circle"><span class="fa fa-wrench"></span></figure>
+                                    <figure class="icon img-circle">
+                                        <span class="fa fa-wrench"></span>
+                                    </figure>
                                     <div class="description">
-                                        <h3><a href="services">งานด้านบริการ</a></h3>
+                                        <h3><a href="services">บริการติดตั้ง โครงหลังคา...</a></h3>
                                         <div class="content">
-                                            <p>เป็นผู้ให้บริการติดตั้งงานโครงหลังคา เชิงชายและให้บริการติดตั้งงาน Mockup office</p>
-                                            <a href="services-sales">เพิ่มเติม...</a>
+                                            <p>เป็นผู้ให้บริการติดตั้งงานโครงหลังคา เชิงชายและให้บริการติดตั้งงาน Mockup office...</p>
+                                            <a href="services">เพิ่มเติม...</a>
                                         </div>
                                     </div>
                                 </article>
 
                                 <article class="service-box col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                                    <figure class="icon img-circle"><span class="fa fa-dollar"></span></figure>
+                                    <figure class="icon img-circle">
+                                        <span class="fa fa-connectdevelop"></span>
+                                    </figure>
                                     <div class="description">
-                                        <h3><a href="#">งานด้านการขาย</a></h3>
+                                        <h3><a href="services-sales">จำหน่ายวัสดุก่อสร้างของ Thai...</a></h3>
                                         <div class="content">
-                                            <p>ขายโครงหลังคาสำเร็จรูป ขายเหล็กเส้นรีดเย็น</p>
+                                            <p>จำหน่ายอิฐบล๊อค นาโน (Nano Block),โครงหลังคาสำเร็จรูป นาโน (Nano Truss)...</p>
+                                            <a href="services-sales">เพิ่มเติม...</a>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="service-box col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                                    <figure class="icon img-circle"><span class="fa fa-truck"></span></figure>
+                                    <div class="description">
+                                        <h3><a href="nanohouse-services">รับเหมาก่อสร้างบ้าน นาโน เฮ้าส์</a></h3>
+                                        <div class="content">
+                                            <p>รับเหมาก่อสร้างบ้าน โดยใช้วัสดุ และระบบการก่อสร้างของ บ้าน นาโน เฮ้าส์ <br/><br/></p>
+                                            <a href="nanohouse-services">เพิ่มเติม...</a>
+                                        </div>
+                                    </div>
+                                </article>
+
+                                <article class="service-box col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                                    <figure class="icon img-circle"><span class="fa fa-tasks"></span></figure>
+                                    <div class="description">
+                                        <h3><a href="#">รับเหมาก่อสร้างทั่วไป</a></h3>
+                                        <div class="content">
+                                            <p>รับเหมาก่อสร้าง บ้าน อาคารพานิชย์ไม่เกิน 3 ชั้น,รับเหมาตั้งผนังคอนกรีตสำเร็จรูป (Precast) บ้าน ...</p>
                                             <a href="#">เพิ่มเติม...</a>
                                         </div>
                                     </div>

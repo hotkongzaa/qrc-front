@@ -418,7 +418,7 @@
 
 
             <!--Project Three Column-->
-            <section class="project three-col  parallax-section text-center" style="background-image:url(../assets/images/parallax/banner-bg-1.jpg);">
+            <section class="project three-col  parallax-section text-center" style="background-image:url(../assets/images/qrc_background.png);">
                 <div class="auto-container">
                     <div class="row">
                         <!--Section Title-->
@@ -513,172 +513,177 @@
             </section>
 
             <!--Our Team-->
-            <section class="our-team home-page anim-5-all">
-                <div class="auto-container">
-                    <div class="content-box">
-
-                        <header class="sec-title">
-                            <span class="double-line"></span> &ensp; <h1>Our Team</h1> &ensp; <span class="double-line"></span>
-                        </header>
-                        <div class="clearfix"></div>
-
-                        <article class="member col-md-3 col-sm-6 col-xs-12">
-                            <figure class="image">
-                                <img src="../assets/images/resource/team-member-1.jpg" alt="" title="">
-                                <div class="overlay anim-5-all"><div class="link-icon"><a href="mailto:abc@mail.com" class="fa fa-envelope-o"></a></div></div>
-                            </figure>
-                            <h3>Muhibbur  Rashid</h3>
-                            <h4>CEO</h4>
-                            <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
-                            <div class="social">
-                                <a href="javascript:void(0)" class="fa fa-facebook-f"></a> &ensp; <a href="javascript:void(0)" class="fa fa-twitter"></a> &ensp; <a href="javascript:void(0)" class="fa fa-google-plus"></a> &ensp; <a href="javascript:void(0)" class="fa fa-linkedin"></a>
-                            </div>
-                        </article>
-
-                        <article class="member col-md-3 col-sm-6 col-xs-12">
-                            <figure class="image">
-                                <img src="../assets/images/resource/team-member-2.jpg" alt="" title="">
-                                <div class="overlay anim-5-all"><div class="link-icon"><a href="mailto:abc@mail.com" class="fa fa-envelope-o"></a></div></div>
-                            </figure>
-                            <h3>Rashed Kabir</h3>
-                            <h4>Architect</h4>
-                            <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
-                            <div class="social">
-                                <a href="javascript:void(0)" class="fa fa-facebook-f"></a> &ensp; <a href="javascript:void(0)" class="fa fa-twitter"></a> &ensp; <a href="javascript:void(0)" class="fa fa-google-plus"></a> &ensp; <a href="javascript:void(0)" class="fa fa-linkedin"></a>
-                            </div>
-                        </article>
-
-                        <article class="member col-md-3 col-sm-6 col-xs-12">
-                            <figure class="image">
-                                <img src="../assets/images/resource/team-member-3.jpg" alt="" title="">
-                                <div class="overlay anim-5-all"><div class="link-icon"><a href="mailto:abc@mail.com" class="fa fa-envelope-o"></a></div></div>
-                            </figure>
-                            <h3>Masum Rana</h3>
-                            <h4>Site Engineer</h4>
-                            <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
-                            <div class="social">
-                                <a href="javascript:void(0)" class="fa fa-facebook-f"></a> &ensp; <a href="javascript:void(0)" class="fa fa-twitter"></a> &ensp; <a href="javascript:void(0)" class="fa fa-google-plus"></a> &ensp; <a href="javascript:void(0)" class="fa fa-linkedin"></a>
-                            </div>
-                        </article>
-
-                        <article class="member col-md-3 col-sm-6 col-xs-12">
-                            <figure class="image">
-                                <img src="../assets/images/resource/team-member-4.jpg" alt="" title="">
-                                <div class="overlay anim-5-all"><div class="link-icon"><a href="mailto:abc@mail.com" class="fa fa-envelope-o"></a></div></div>
-                            </figure>
-                            <h3>Sakib al Hasan</h3>
-                            <h4>Quality Manager</h4>
-                            <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
-                            <div class="social">
-                                <a href="javascript:void(0)" class="fa fa-facebook-f"></a> &ensp; <a href="javascript:void(0)" class="fa fa-twitter"></a> &ensp; <a href="javascript:void(0)" class="fa fa-google-plus"></a> &ensp; <a href="javascript:void(0)" class="fa fa-linkedin"></a>
-                            </div>
-                        </article>
-
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
+            <section class="our-team home-page anim-5-all" style="padding:0 0 !important;">
+                <!--                <div class="auto-container">
+                                    <div class="content-box">
+                
+                                        <header class="sec-title">
+                                            <span class="double-line"></span> &ensp; <h1>Our Team</h1> &ensp; <span class="double-line"></span>
+                                        </header>
+                                        <div class="clearfix"></div>
+                
+                                        <article class="member col-md-3 col-sm-6 col-xs-12">
+                                            <figure class="image">
+                                                <img src="../assets/images/resource/team-member-1.jpg" alt="" title="">
+                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="mailto:abc@mail.com" class="fa fa-envelope-o"></a></div></div>
+                                            </figure>
+                                            <h3>Muhibbur  Rashid</h3>
+                                            <h4>CEO</h4>
+                                            <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
+                                            <div class="social">
+                                                <a href="javascript:void(0)" class="fa fa-facebook-f"></a> &ensp; <a href="javascript:void(0)" class="fa fa-twitter"></a> &ensp; <a href="javascript:void(0)" class="fa fa-google-plus"></a> &ensp; <a href="javascript:void(0)" class="fa fa-linkedin"></a>
+                                            </div>
+                                        </article>
+                
+                                        <article class="member col-md-3 col-sm-6 col-xs-12">
+                                            <figure class="image">
+                                                <img src="../assets/images/resource/team-member-2.jpg" alt="" title="">
+                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="mailto:abc@mail.com" class="fa fa-envelope-o"></a></div></div>
+                                            </figure>
+                                            <h3>Rashed Kabir</h3>
+                                            <h4>Architect</h4>
+                                            <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
+                                            <div class="social">
+                                                <a href="javascript:void(0)" class="fa fa-facebook-f"></a> &ensp; <a href="javascript:void(0)" class="fa fa-twitter"></a> &ensp; <a href="javascript:void(0)" class="fa fa-google-plus"></a> &ensp; <a href="javascript:void(0)" class="fa fa-linkedin"></a>
+                                            </div>
+                                        </article>
+                
+                                        <article class="member col-md-3 col-sm-6 col-xs-12">
+                                            <figure class="image">
+                                                <img src="../assets/images/resource/team-member-3.jpg" alt="" title="">
+                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="mailto:abc@mail.com" class="fa fa-envelope-o"></a></div></div>
+                                            </figure>
+                                            <h3>Masum Rana</h3>
+                                            <h4>Site Engineer</h4>
+                                            <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
+                                            <div class="social">
+                                                <a href="javascript:void(0)" class="fa fa-facebook-f"></a> &ensp; <a href="javascript:void(0)" class="fa fa-twitter"></a> &ensp; <a href="javascript:void(0)" class="fa fa-google-plus"></a> &ensp; <a href="javascript:void(0)" class="fa fa-linkedin"></a>
+                                            </div>
+                                        </article>
+                
+                                        <article class="member col-md-3 col-sm-6 col-xs-12">
+                                            <figure class="image">
+                                                <img src="../assets/images/resource/team-member-4.jpg" alt="" title="">
+                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="mailto:abc@mail.com" class="fa fa-envelope-o"></a></div></div>
+                                            </figure>
+                                            <h3>Sakib al Hasan</h3>
+                                            <h4>Quality Manager</h4>
+                                            <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
+                                            <div class="social">
+                                                <a href="javascript:void(0)" class="fa fa-facebook-f"></a> &ensp; <a href="javascript:void(0)" class="fa fa-twitter"></a> &ensp; <a href="javascript:void(0)" class="fa fa-google-plus"></a> &ensp; <a href="javascript:void(0)" class="fa fa-linkedin"></a>
+                                            </div>
+                                        </article>
+                
+                                        <div class="clearfix"></div>
+                                    </div>
+                                </div>-->
 
             </section>
             <!--Testimonials-->
             <section class="testimonials">
-                <div class="auto-container">
-                    <div class="row clearfix">
-                        <!--Section Title-->
-                        <header class="sec-title clearfix">
-                            <span class="double-line"></span> &ensp; <h1>Testimonials</h1> &ensp; <span class="double-line"></span>
-                        </header>
-                        <div class="quote-icon theme-color"><span class="fa fa-quote-left"></span></div>
-
-                        <!--Slider-->
-                        <div class="slider clearfix">
-
-                            <!--Slide Item-->
-                            <article class="slide-item anim-5-all">
-                                <figure class="avatar"><img src="../assets/images/resource/testimonial-avatar-1.jpg" alt="" title=""></figure>
-                                <div class="content">
-                                    <span class="curve"></span>
-                                    <div class="quote-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</div>
-                                    <div class="quote-author"><strong class="theme-color">Grey White,</strong> CEO/Google Inc</div>
-                                </div>
-                            </article>
-                            <!--Slide Item-->
-                            <article class="slide-item anim-5-all">
-                                <figure class="avatar"><img src="../assets/images/resource/testimonial-avatar-2.jpg" alt="" title=""></figure>
-                                <div class="content">
-                                    <span class="curve"></span>
-                                    <div class="quote-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</div>
-                                    <div class="quote-author"><strong class="theme-color">Grey White,</strong> CEO/Google Inc</div>
-                                </div>
-                            </article>
-                            <!--Slide Item-->
-                            <article class="slide-item anim-5-all">
-                                <figure class="avatar"><img src="../assets/images/resource/testimonial-avatar-1.jpg" alt="" title=""></figure>
-                                <div class="content">
-                                    <span class="curve"></span>
-                                    <div class="quote-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</div>
-                                    <div class="quote-author"><strong class="theme-color">Grey White,</strong> CEO/Google Inc</div>
-                                </div>
-                            </article>
-                            <!--Slide Item-->
-                            <article class="slide-item anim-5-all">
-                                <figure class="avatar"><img src="../assets/images/resource/testimonial-avatar-2.jpg" alt="" title=""></figure>
-                                <div class="content">
-                                    <span class="curve"></span>
-                                    <div class="quote-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</div>
-                                    <div class="quote-author"><strong class="theme-color">Grey White,</strong> CEO/Google Inc</div>
-                                </div>
-                            </article>
-                            <!--Slide Item-->
-                            <article class="slide-item anim-5-all">
-                                <figure class="avatar"><img src="../assets/images/resource/testimonial-avatar-1.jpg" alt="" title=""></figure>
-                                <div class="content">
-                                    <span class="curve"></span>
-                                    <div class="quote-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</div>
-                                    <div class="quote-author"><strong class="theme-color">Grey White,</strong> CEO/Google Inc</div>
-                                </div>
-                            </article>
-                            <!--Slide Item-->
-                            <article class="slide-item anim-5-all">
-                                <figure class="avatar"><img src="../assets/images/resource/testimonial-avatar-2.jpg" alt="" title=""></figure>
-                                <div class="content">
-                                    <span class="curve"></span>
-                                    <div class="quote-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</div>
-                                    <div class="quote-author"><strong class="theme-color">Grey White,</strong> CEO/Google Inc</div>
-                                </div>
-                            </article>
-
-                        </div>
-                        <!--Slider End-->
-
-                    </div>
-                </div>
+                <!--                <div class="auto-container">
+                                    <div class="row clearfix">
+                                        Section Title
+                                        <header class="sec-title clearfix">
+                                            <span class="double-line"></span> &ensp; <h1>Testimonials</h1> &ensp; <span class="double-line"></span>
+                                        </header>
+                                        <div class="quote-icon theme-color"><span class="fa fa-quote-left"></span></div>
+                
+                                        Slider
+                                        <div class="slider clearfix">
+                
+                                            Slide Item
+                                            <article class="slide-item anim-5-all">
+                                                <figure class="avatar"><img src="../assets/images/resource/testimonial-avatar-1.jpg" alt="" title=""></figure>
+                                                <div class="content">
+                                                    <span class="curve"></span>
+                                                    <div class="quote-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</div>
+                                                    <div class="quote-author"><strong class="theme-color">Grey White,</strong> CEO/Google Inc</div>
+                                                </div>
+                                            </article>
+                                            Slide Item
+                                            <article class="slide-item anim-5-all">
+                                                <figure class="avatar"><img src="../assets/images/resource/testimonial-avatar-2.jpg" alt="" title=""></figure>
+                                                <div class="content">
+                                                    <span class="curve"></span>
+                                                    <div class="quote-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</div>
+                                                    <div class="quote-author"><strong class="theme-color">Grey White,</strong> CEO/Google Inc</div>
+                                                </div>
+                                            </article>
+                                            Slide Item
+                                            <article class="slide-item anim-5-all">
+                                                <figure class="avatar"><img src="../assets/images/resource/testimonial-avatar-1.jpg" alt="" title=""></figure>
+                                                <div class="content">
+                                                    <span class="curve"></span>
+                                                    <div class="quote-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</div>
+                                                    <div class="quote-author"><strong class="theme-color">Grey White,</strong> CEO/Google Inc</div>
+                                                </div>
+                                            </article>
+                                            Slide Item
+                                            <article class="slide-item anim-5-all">
+                                                <figure class="avatar"><img src="../assets/images/resource/testimonial-avatar-2.jpg" alt="" title=""></figure>
+                                                <div class="content">
+                                                    <span class="curve"></span>
+                                                    <div class="quote-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</div>
+                                                    <div class="quote-author"><strong class="theme-color">Grey White,</strong> CEO/Google Inc</div>
+                                                </div>
+                                            </article>
+                                            Slide Item
+                                            <article class="slide-item anim-5-all">
+                                                <figure class="avatar"><img src="../assets/images/resource/testimonial-avatar-1.jpg" alt="" title=""></figure>
+                                                <div class="content">
+                                                    <span class="curve"></span>
+                                                    <div class="quote-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</div>
+                                                    <div class="quote-author"><strong class="theme-color">Grey White,</strong> CEO/Google Inc</div>
+                                                </div>
+                                            </article>
+                                            Slide Item
+                                            <article class="slide-item anim-5-all">
+                                                <figure class="avatar"><img src="../assets/images/resource/testimonial-avatar-2.jpg" alt="" title=""></figure>
+                                                <div class="content">
+                                                    <span class="curve"></span>
+                                                    <div class="quote-text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</div>
+                                                    <div class="quote-author"><strong class="theme-color">Grey White,</strong> CEO/Google Inc</div>
+                                                </div>
+                                            </article>
+                
+                                        </div>
+                                        Slider End
+                
+                                    </div>
+                                </div>-->
             </section>
 
             <!--Client Logos-->
             <section class="client-logos">
                 <div class="auto-container">
+                    <!--Section Title-->
+                    <header class="sec-title clearfix">
+                        <span class="double-line"></span> &ensp; <h1>OUR PARTNERS</h1> &ensp; <span class="double-line"></span>
+                    </header>
+
                     <div class="row anim-5-all clearfix">
                         <div class="client-carsoule">
                             <div class="slide-item">
-                                <a href="javascript:void(0)"><img src="../assets/images/partner/scg.jpg" alt="" title="scg"></a>
+                                <a href="http://www.scg.co.th/landing/"><img src="../assets/images/partner/scg.jpg" alt="" title="scg"></a>
                             </div>
                             <div class="slide-item">
-                                <a href="javascript:void(0)"><img src="../assets/images/partner/ตราเพชร_new.png" alt="" title="ตราเพชร"></a>
+                                <a href="http://www.dbp.co.th/2016/index.php"><img src="../assets/images/partner/ตราเพชร_new.png" alt="" title="ตราเพชร"></a>
                             </div>       
                             <div class="slide-item">
-                                <a href="javascript:void(0)"><img src="../assets/images/partner/qrc_logo.png" alt="" title=""></a>
+                                <a href="main"><img src="../assets/images/partner/qrc_logo.png" alt="" title=""></a>
                             </div>
                             <div class="slide-item">
-                                <a href="javascript:void(0)"><img src="../assets/images/partner/สามชัย_วายเคจำกัด.jpg" alt="" title=""></a>
+                                <a href="http://www.samchaigroup.com/"><img src="../assets/images/partner/สามชัย_วายเคจำกัด.jpg" alt="" title=""></a>
                             </div>
                             <div class="slide-item">
-                                <a href="javascript:void(0)"><img src="../assets/images/partner/แสนสิริ-จำกัด-มหาชน-logo_large.jpg" alt="" title=""></a>
+                                <a href="http://www.sansiri.com/thai/"><img src="../assets/images/partner/แสนสิริ-จำกัด-มหาชน-logo_large.jpg" alt="" title=""></a>
                             </div> 
                             <div class="slide-item">
-                                <a href="javascript:void(0)"><img src="../assets/images/partner/Logo_pruksa-thai_cs2.png" alt="" title=""></a>
+                                <a href="http://www.pruksa.com/"><img src="../assets/images/partner/Logo_pruksa-thai_cs2.png" alt="" title=""></a>
                             </div>
                             <div class="slide-item">
-                                <a href="javascript:void(0)"><img src="../assets/images/partner/Property perfect.png" alt="" title=""></a>
+                                <a href="http://www.pf.co.th/pf-corporate/"><img src="../assets/images/partner/Property perfect.png" alt="" title=""></a>
                             </div>
                         </div>
                         <!--logos-->
