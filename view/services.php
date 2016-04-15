@@ -72,13 +72,13 @@
                                         <!--Navigation End-->
 
                                         <!--Search Box-->
-                                        <div class="search-box widget">
+<!--                                        <div class="search-box widget">
                                             <form method="post" action="index.html">
                                                 <fieldset class="form-group">
                                                     <input type="search" name="search" value="" placeholder="search">
                                                 </fieldset>
                                             </form>
-                                        </div>
+                                        </div>-->
                                         <!--Search Box End-->
 
                                     </div>
