@@ -449,7 +449,7 @@
                                     <div class="link-icon"><a href="pruksa_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-                            
+
                             <!--Item-->
                             <div class="mix mix_all land_and_house_projectt">
                                 <figure class="image"><img src="../assets/images/project/logo_landandhouse_368x240.jpg" alt="" title=""></figure>
@@ -459,7 +459,7 @@
                                     <div class="link-icon"><a href="land_and_house_project" class="fa fa-link"></a></div>
                                 </div>
                             </div>
-                            
+
                             <!--Item-->
                             <div class="mix mix_all quality_house_project">
                                 <figure class="image"><img src="../assets/images/project/logo_qhouse_368x240.jpg" alt="" title=""></figure>
