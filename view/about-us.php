@@ -66,9 +66,7 @@
                                                             <li><a href="general-services">รับเหมาก่อสร้างทั่วไป</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li class="dropdown">
-                                                    <li class="dropdown"><a href="clients" class="dropdown-toggle">Clients</a>
-                                                    </li>                                        
+                                                    <li class="dropdown"><a href="clients" class="dropdown-toggle">Clients</a></li>                                        
                                                     <li>
                                                         <a href="contact-us">Contact Us</a>
                                                     </li>
