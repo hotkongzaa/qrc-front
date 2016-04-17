@@ -11,3 +11,4 @@
 <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
 <script src="../assets/js/googlemaps.js"></script>
 <script src="../assets/js/script.js"></script>
+<script src="../assets/js/unitegallery.min.js"></script>
