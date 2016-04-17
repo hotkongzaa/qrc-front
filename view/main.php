@@ -451,7 +451,7 @@
                             </div>
 
                             <!--Item-->
-                            <div class="mix mix_all land_and_house_projectt">
+                            <div class="mix mix_all land_and_house_project">
                                 <figure class="image"><img src="../assets/images/project/logo_landandhouse_368x240.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/project/logo_landandhouse_368x240.jpg" data-rel="prettyPhoto" title="Flat" class="fa fa-camera"></a></div>
@@ -665,25 +665,31 @@
                     <div class="row anim-5-all clearfix">
                         <div class="client-carsoule">
                             <div class="slide-item">
-                                <a href="http://www.scg.co.th/landing/"><img src="../assets/images/partner/scg.jpg" alt="" title="scg"></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/ArconTruss.gif" alt="" title="ArconTruss"></a>
                             </div>
                             <div class="slide-item">
-                                <a href="http://www.dbp.co.th/2016/index.php"><img src="../assets/images/partner/ตราเพชร_new.png" alt="" title="ตราเพชร"></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/ตราเพชร_new.png" alt="" title="ตราเพชร"></a>
                             </div>       
                             <div class="slide-item">
-                                <a href="main"><img src="../assets/images/partner/qrc_logo.png" alt="" title=""></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/EasyTruss.jpg" alt="" title="EasyTruss"></a>
                             </div>
                             <div class="slide-item">
-                                <a href="http://www.samchaigroup.com/"><img src="../assets/images/partner/สามชัย_วายเคจำกัด.jpg" alt="" title=""></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/Ezytruss.jpg" alt="" title="Ezytruss"></a>
                             </div>
                             <div class="slide-item">
-                                <a href="http://www.sansiri.com/thai/"><img src="../assets/images/partner/แสนสิริ-จำกัด-มหาชน-logo_large.jpg" alt="" title=""></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/KKSSTrussForYou.png" alt="" title="KKSSTrussForYou"></a>
                             </div> 
                             <div class="slide-item">
-                                <a href="http://www.pruksa.com/"><img src="../assets/images/partner/Logo_pruksa-thai_cs2.png" alt="" title=""></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/MTruss.jpg" alt="" title="MTruss"></a>
                             </div>
                             <div class="slide-item">
-                                <a href="http://www.pf.co.th/pf-corporate/"><img src="../assets/images/partner/Property perfect.png" alt="" title=""></a>
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/SCGRoofTruss.png" alt="" title="SCGRoofTruss"></a>
+                            </div>
+                            <div class="slide-item">
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/SmartTruss.jpg" alt="" title="SmartTruss"></a>
+                            </div>
+                            <div class="slide-item">
+                                <a href="javascript:void(0)"><img src="../assets/images/partner/TPITruss.jpg" alt="" title="TPITruss"></a>
                             </div>
                         </div>
                         <!--logos-->
