@@ -132,7 +132,7 @@
                                          data-speed="700"
                                          data-start="1500"
                                          data-easing="easeOutExpo">
-                                        <a href="javascript:void(0)" class="theme-btn dark-btn">LEARN MORE</a>
+                                        <a href="services" class="theme-btn dark-btn">READ MORE</a>
                                     </div>
                                     <div class="caption fade image right"
                                          data-x="right"
@@ -149,34 +149,52 @@
                                 <li data-transition="fade" data-slotamount="10" data-masterspeed="1500">
 
                                     <div class="caption lfb stb"
-                                         data-x="center"
+                                         data-x="left"
                                          data-y="top"
                                          data-hoffset="0"
                                          data-voffset="110"
                                          data-speed="700"
                                          data-start="500"
                                          data-easing="easeOutExpo">
-                                        <h2 class="text-center theme-color">Make youtheme-colorr <br><span>Dream</span> TRUE With us</h2>
+                                        <h2 class="theme-color-bg">
+                                            <span class="bg">จำหน่ายอิฐบล๊อค นาโน</span><br>
+                                            <span class="bg">และวัสดุก่อสร้าง นาโน เฮ้าส์</span>
+                                        </h2>
                                     </div>
                                     <div class="caption lfb stb"
-                                         data-x="center"
+                                         data-x="left"
                                          data-y="top"
                                          data-hoffset="0"
-                                         data-voffset="240"
+                                         data-voffset="245"
                                          data-speed="700"
                                          data-start="1000"
                                          data-easing="easeOutExpo">
-                                        <h4 class="text-center">There are many variations of passages of Lorem Ipsum<br> available, but the majority have suffered alteration in some <br>form, by injected humour.</h4>
+                                        <h4 style="color: whitesmoke">
+                                            จำหน่ายอิฐบล๊อค นาโน วัสดุก่อสร้าง นาโน เฮ้าส์ ซึ่งเป็นวัสดุที่ผ่านการ ศึกษา วิจัย ออกแบบ<br> 
+                                            และพัฒนาโดย บ. ไทย นาโน เฮ้าส์ ทำให้ได้วัสดุก่อสร้างคุณภาพที่ ช่วยประหยัดพลังงาน<br>
+                                            ต้านภัยพิบัติ (Disaster Resistant) เป็นมิตรกับสิ่งแวดล้อม (Eco Friendly) และเจ้าของบ้าน <br>
+                                            หรือบุคคลทั่วไปสามารถนำไปทำได้เองแบบ DIY รวมถึงให้คำแนะนำเกี่ยวกับระบบก่อสร้างแบบ นาโน เฮ้าส์
+                                        </h4>
                                     </div>
                                     <div class="caption lfb stb"
-                                         data-x="center"
+                                         data-x="left"
                                          data-y="top"
                                          data-hoffset="0"
                                          data-voffset="340"
                                          data-speed="700"
                                          data-start="1500"
                                          data-easing="easeOutExpo">
-                                        <!--a href="javascript:void(0)" class="theme-btn theme-color">BUY NOW</a--> &ensp; <a href="javascript:void(0)" class="theme-btn dark-btn">LEARN MORE</a>
+                                        <!--a href="javascript:void(0)" class="theme-btn theme-color">BUY NOW</a--> &ensp; <a href="services-sales" class="theme-btn dark-btn">READ MORE</a>
+                                    </div>
+                                    <div class="caption fade image right"
+                                         data-x="right"
+                                         data-y="bottom"
+                                         data-hoffset="0"
+                                         data-voffset="0"
+                                         data-speed="700"
+                                         data-start="2000"
+                                         data-easing="easeOutBack">
+                                        <img src="../assets/images/bullet/img_bullet2.jpg" alt="">
                                     </div>
                                 </li>
 
@@ -215,7 +233,7 @@
                                          data-speed="700"
                                          data-start="1500"
                                          data-easing="easeOutExpo">
-                                        <a href="javascript:void(0)" class="theme-btn dark-btn">LEARN MORE</a>
+                                        <a href="nanohouse-services" class="theme-btn dark-btn">READ MORE</a>
                                     </div>
                                     <div class="caption fade image left"
                                          data-x="left"
@@ -226,6 +244,55 @@
                                          data-start="2000"
                                          data-easing="easeOutBack">
                                         <img src="../assets/images/bullet/img_bullet3.png" alt="">
+                                    </div>
+                                </li>
+                                
+                                <li data-transition="fade" data-slotamount="10" data-masterspeed="1500">
+
+                                    <div class="caption lfb stb"
+                                         data-x="right"
+                                         data-y="top"
+                                         data-hoffset="0"
+                                         data-voffset="110"
+                                         data-speed="700"
+                                         data-start="500"
+                                         data-easing="easeOutExpo">
+                                        <h2 class="text-right theme-color-bg">
+                                            <span>งานก่อสร้างคุณภาพ ด้วยวัสดุคุณภาพ</span><br><span>โดยช่างมืออาชีพ</span>
+                                        </h2>
+                                    </div>
+                                    <div class="caption lfb stb"
+                                         data-x="right"
+                                         data-y="top"
+                                         data-hoffset="0"
+                                         data-voffset="240"
+                                         data-speed="700"
+                                         data-start="1000"
+                                         data-easing="easeOutExpo">
+                                        <h4 class="text-right" style="color: whitesmoke">
+                                            รับเหมาก่อสร้าง โดยใช้อุปกรณ์ที่มีคุณภาพ และได้มาตรฐาน<br>
+                                            โดยช่างมืออาชีพที่ผ่านการอบรมเฉพาะทางจากเจ้าของผลิตภัณฑ์โดยตรง และมีประสบการณ์มากว่า 10 ปี
+                                        </h4>
+                                    </div>
+                                    <div class="caption lfb stb"
+                                         data-x="right"
+                                         data-y="top"
+                                         data-hoffset="0"
+                                         data-voffset="340"
+                                         data-speed="700"
+                                         data-start="1500"
+                                         data-easing="easeOutExpo">
+                                        <a href="general-services" class="theme-btn dark-btn">READ MORE</a>
+                                    </div>
+                                    <div class="caption fade image left"
+                                         data-x="left"
+                                         data-y="bottom"
+                                         data-hoffset="0"
+                                         data-voffset="0"
+                                         data-speed="700"
+                                         data-start="2000"
+                                         data-easing="easeOutBack">
+                                        <img src="../assets/images/bullet/img_bullet4.jpg" alt="">
                                     </div>
                                 </li>
 
