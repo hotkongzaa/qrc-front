@@ -129,12 +129,12 @@
                             <li class="filter" data-role="button" data-filter="sammakorn_project">สัมมากร</li>
                             <li class="filter" data-role="button" data-filter="keppel_thai_project">Keppel Thai Properties</li>
                             <li class="filter" data-role="button" data-filter="lhm_property_project">LHM Property Group</li>
-                            <li class="filter" data-role="button" data-filter="the_balanz_project">The Balanz</li> 
+<!--                            <li class="filter" data-role="button" data-filter="the_balanz_project">The Balanz</li> -->
 <!--                            <li class="filter" data-role="button" data-filter="golden_land_project">โกลเด้น แลนด์ เรสซิเด้นซ์</li> -->
                             <li class="filter" data-role="button" data-filter="metropolis_project">เมโทรโพลิส พรอพเพอร์ตี้</li> 
                             <li class="filter" data-role="button" data-filter="enrich_project">Enrich</li> 
                             <li class="filter" data-role="button" data-filter="suetrong_project">ซื่อตรงกรุ๊ป</li>
-                            <li class="filter" data-role="button" data-filter="the_estate_project">The Estate</li>
+<!--                            <li class="filter" data-role="button" data-filter="the_estate_project">The Estate</li>-->
                             <li class="filter" data-role="button" data-filter="wangthong_project">วังทอง</li>
                             <li class="filter" data-role="button" data-filter="sena_project">Sena</li>
                         </ul>
@@ -271,14 +271,14 @@
                                 </div>
                             </div>
                             <!--Item-->
-                            <div class="mix mix_all the_balanz_project">
+<!--                            <div class="mix mix_all the_balanz_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
                                     <div class="title"><span>The Balanz</span></div>
                                     <div class="link-icon"><a href="the_balanz_project" class="fa fa-link"></a></div>
                                 </div>
-                            </div>
+                            </div>-->
                             <!--Item-->
 <!--                            <div class="mix mix_all natural_living_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
@@ -325,14 +325,14 @@
                                 </div>
                             </div>
                             <!--Item-->
-                            <div class="mix mix_all the_estate_project">
+<!--                            <div class="mix mix_all the_estate_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
                                 <div class="overlay anim-5-all">
                                     <div class="pop-icon"><a href="../assets/images/resource/project-image-4.jpg" data-rel="prettyPhoto" title="Bridge" class="fa fa-camera"></a></div>
                                     <div class="title"><span>The estate</span></div>
                                     <div class="link-icon"><a href="the_estate_project" class="fa fa-link"></a></div>
                                 </div>
-                            </div>
+                            </div>-->
                             <!--Item-->
 <!--                            <div class="mix mix_all samut_songkhram_project">
                                 <figure class="image"><img src="../assets/images/resource/project-image-4.jpg" alt="" title=""></figure>
