@@ -131,8 +131,8 @@
                                     <div class="tab-content">
                                         <figure class="tab collapsed" id="image-one">
                                             <div class="image">
-                                                <img src="../assets/images/resource/single-project-image-1.jpg" alt="">
-                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="../assets/images/resource/single-project-image-1.jpg" data-rel="prettyPhoto" title="Gallery Title" class="fa fa-camera"></a></div></div>
+                                                <img src="../assets/images/project/logo_landandhouse_400x220.jpg" alt="">
+                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="../assets/images/project/logo_landandhouse_400x220.jpg" data-rel="prettyPhoto" title="Gallery Title" class="fa fa-camera"></a></div></div>
                                             </div>
                                         </figure>
 
