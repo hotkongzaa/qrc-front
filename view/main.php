@@ -70,6 +70,9 @@
                                                         <a href="clients" class="dropdown-toggle">Clients</a>
                                                     </li>
                                                     <li>
+                                                        <a href="gallery" class="dropdown-toggle">Gallery</a>
+                                                    </li>
+                                                    <li>
                                                         <a href="contact-us">Contact Us</a>
                                                     </li>
                                                 </ul>
@@ -77,17 +80,6 @@
                                             </div>
                                         </nav>
                                         <!--Navigation End-->
-
-                                        <!--Search Box-->
-<!--                                        <div class="search-box widget">
-                                            <form method="post" action="main">
-                                                <fieldset class="form-group">
-                                                    <input type="search" name="search" value="" placeholder="search">
-                                                </fieldset>
-                                            </form>
-                                        </div>-->
-                                        <!--Search Box End-->
-
                                     </div>
                                 </div>
 

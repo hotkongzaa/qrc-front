@@ -5,6 +5,7 @@
 
     //Hide Loading Box (Preloader)
     function handlePreloader() {
+        $(".clientDivToggle").hide();
         if ($('.preloader').length) {
             $('.preloader').delay(500).fadeOut(500);
         }
@@ -271,9 +272,7 @@
                     el.removeClass('out');
                 }, animDelay);
 
-            }
-
-            else {
+            } else {
                 el.addClass(anim + ' in');
                 el.removeClass('out');
             }

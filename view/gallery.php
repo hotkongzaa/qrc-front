@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>QRC | About Us</title>
+        <title>QRC | Gallery</title>
         <!-- Stylesheets -->
         <?php include '../include/include_css.php'; ?>
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -54,7 +54,7 @@
                                                     <li>
                                                         <a href="main">Home</a>
                                                     </li>
-                                                    <li class="current">
+                                                    <li>
                                                         <a href="about-us">About Us</a>
                                                     </li>
                                                     <li class="dropdown">
@@ -69,7 +69,7 @@
                                                     <li class="dropdown">
                                                         <a href="clients" class="dropdown-toggle">Clients</a>
                                                     </li>                                        
-                                                    <li>
+                                                    <li class="current">
                                                         <a href="gallery" class="dropdown-toggle">Gallery</a>
                                                     </li>
                                                     <li>
@@ -106,8 +106,8 @@
                 <div class="page-title">
                     <div class="auto-container">
                         <div class="row clearfix">
-                            <div class="col-md-6 col-sm-6 col-xs-12 pull-left"><h1>About Us</h1></div>
-                            <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="#">Home</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="#">About Us</a></div>
+                            <div class="col-md-6 col-sm-6 col-xs-12 pull-left"><h1>Gallery</h1></div>
+                            <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="#">Home</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="#">Gallery</a></div>
                         </div>
                     </div>
                 </div>
@@ -126,8 +126,8 @@
 
                             <!--Who we are-->
                             <div class="who-we-are clearfix">
-                                <div class="sec-icon fa fa-user img-circle"></div>
-                                <h2>Who We Are</h2>
+                                <div class="sec-icon fa fa-image img-circle"></div>
+                                <h2>งานติดตั้งโครงหลังคาสำเร็จรูป เชิงชาย และงานบริการอื่นๆ</h2>
                                 <div class="clearfix"></div>
                                 <div class="col-md-6 col-sm-6 col-xs-12 image"><img class="img-responsive" src="../assets/images/qrc_logo_big.png" alt="" width="500px" height="300px"></div>
                                 <div class="col-md-6 col-sm-6 col-xs-12 text">
@@ -144,8 +144,8 @@
 
                             <!--Our Services-->
                             <div class="our-services about clearfix">
-                                <div class="sec-icon fa fa-user img-circle"></div>
-                                <h2>Our Products & Services</h2>
+                                <div class="sec-icon fa fa-image img-circle"></div>
+                                <h2>งานอิฐบล๊อคนาโน และ วัสดุก่อสร้างThainanohouse</h2>
                                 <div class="clearfix"></div>                        
 
                                 <article class="service-box col-lg-4 col-md-4 col-sm-6 col-xs-12">
@@ -160,105 +160,46 @@
                                         </div>
                                     </div>
                                 </article>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="our-services about clearfix">
+                                <div class="sec-icon fa fa-image img-circle"></div>
+                                <h2>งานก่อสร้างโดยใช้อิฐบล๊อคนาโน และ ระบบนาโนเฮ้าส์</h2>
+                                <div class="clearfix"></div>                        
 
                                 <article class="service-box col-lg-4 col-md-4 col-sm-6 col-xs-12">
                                     <figure class="icon img-circle">
-                                        <span class="fa fa-connectdevelop"></span>
+                                        <span class="fa fa-wrench"></span>
                                     </figure>
                                     <div class="description">
-                                        <h3><a href="services-sales">จำหน่ายวัสดุก่อสร้างของ Thai...</a></h3>
+                                        <h3><a href="services">บริการติดตั้ง โครงหลังคา...</a></h3>
                                         <div class="content">
-                                            <p>จำหน่ายอิฐบล๊อค นาโน (Nano Block),โครงหลังคาสำเร็จรูป นาโน (Nano Truss)...</p>
-                                            <a href="services-sales">เพิ่มเติม...</a>
+                                            <p>เป็นผู้ให้บริการติดตั้งงานโครงหลังคา เชิงชายและให้บริการติดตั้งงาน Mockup office...</p>
+                                            <a href="services">เพิ่มเติม...</a>
                                         </div>
                                     </div>
                                 </article>
-                                <article class="service-box col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                                    <figure class="icon img-circle"><span class="fa fa-truck"></span></figure>
-                                    <div class="description">
-                                        <h3><a href="nanohouse-services">รับเหมาก่อสร้างบ้าน นาโน เฮ้าส์</a></h3>
-                                        <div class="content">
-                                            <p>รับเหมาก่อสร้างบ้าน โดยใช้วัสดุ และระบบการก่อสร้างของ บ้าน นาโน เฮ้าส์ <br/><br/></p>
-                                            <a href="nanohouse-services">เพิ่มเติม...</a>
-                                        </div>
-                                    </div>
-                                </article>
-
-                                <article class="service-box col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                                    <figure class="icon img-circle"><span class="fa fa-tasks"></span></figure>
-                                    <div class="description">
-                                        <h3><a href="#">รับเหมาก่อสร้างทั่วไป</a></h3>
-                                        <div class="content">
-                                            <p>รับเหมาก่อสร้าง บ้าน อาคารพานิชย์ไม่เกิน 3 ชั้น,รับเหมาตั้งผนังคอนกรีตสำเร็จรูป (Precast) บ้าน ...</p>
-                                            <a href="#">เพิ่มเติม...</a>
-                                        </div>
-                                    </div>
-                                </article>
-
                                 <div class="clearfix"></div>
                             </div>
+                            <div class="our-services about clearfix">
+                                <div class="sec-icon fa fa-image img-circle"></div>
+                                <h2>งานก่อสร้างทั่วไป</h2>
+                                <div class="clearfix"></div>                        
 
-                            <!--Our Team-->
-                            <!--                            <div class="our-team">
-                                                            <div class="sec-icon fa fa-user img-circle"></div>
-                                                            <h2>Our Team</h2>
-                                                            <div class="clearfix"></div>
-                            
-                                                            <article class="member col-md-3 col-sm-6 col-xs-12">
-                                                                <figure class="image">
-                                                                    <img src="../assets/images/resource/team-member-1.jpg" alt="" title="">
-                                                                    <div class="overlay anim-5-all"><div class="link-icon"><a href="mailto:abc@mail.com" class="fa fa-envelope-o"></a></div></div>
-                                                                </figure>
-                                                                <h3>Muhibbur  Rashid</h3>
-                                                                <h4>CEO</h4>
-                                                                <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
-                                                                <div class="social">
-                                                                    <a href="#" class="fa fa-facebook-f"></a> &ensp; <a href="#" class="fa fa-twitter"></a> &ensp; <a href="#" class="fa fa-google-plus"></a> &ensp; <a href="#" class="fa fa-linkedin"></a>
-                                                                </div>
-                                                            </article>
-                            
-                                                            <article class="member col-md-3 col-sm-6 col-xs-12">
-                                                                <figure class="image">
-                                                                    <img src="../assets/images/resource/team-member-2.jpg" alt="" title="">
-                                                                    <div class="overlay anim-5-all"><div class="link-icon"><a href="mailto:abc@mail.com" class="fa fa-envelope-o"></a></div></div>
-                                                                </figure>
-                                                                <h3>Rashed Kabir</h3>
-                                                                <h4>Architect</h4>
-                                                                <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
-                                                                <div class="social">
-                                                                    <a href="#" class="fa fa-facebook-f"></a> &ensp; <a href="#" class="fa fa-twitter"></a> &ensp; <a href="#" class="fa fa-google-plus"></a> &ensp; <a href="#" class="fa fa-linkedin"></a>
-                                                                </div>
-                                                            </article>
-                            
-                                                            <article class="member col-md-3 col-sm-6 col-xs-12">
-                                                                <figure class="image">
-                                                                    <img src="../assets/images/resource/team-member-3.jpg" alt="" title="">
-                                                                    <div class="overlay anim-5-all"><div class="link-icon"><a href="mailto:abc@mail.com" class="fa fa-envelope-o"></a></div></div>
-                                                                </figure>
-                                                                <h3>Masum Rana</h3>
-                                                                <h4>Site Engineer</h4>
-                                                                <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
-                                                                <div class="social">
-                                                                    <a href="#" class="fa fa-facebook-f"></a> &ensp; <a href="#" class="fa fa-twitter"></a> &ensp; <a href="#" class="fa fa-google-plus"></a> &ensp; <a href="#" class="fa fa-linkedin"></a>
-                                                                </div>
-                                                            </article>
-                            
-                                                            <article class="member col-md-3 col-sm-6 col-xs-12">
-                                                                <figure class="image">
-                                                                    <img src="../assets/images/resource/team-member-4.jpg" alt="" title="">
-                                                                    <div class="overlay anim-5-all"><div class="link-icon"><a href="mailto:abc@mail.com" class="fa fa-envelope-o"></a></div></div>
-                                                                </figure>
-                                                                <h3>Sakib al Hasan</h3>
-                                                                <h4>Quality Manager</h4>
-                                                                <div class="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</div>
-                                                                <div class="social">
-                                                                    <a href="#" class="fa fa-facebook-f"></a> &ensp; <a href="#" class="fa fa-twitter"></a> &ensp; <a href="#" class="fa fa-google-plus"></a> &ensp; <a href="#" class="fa fa-linkedin"></a>
-                                                                </div>
-                                                            </article>
-                            
-                                                            <div class="clearfix"></div>
-                            
-                                                        </div>-->
+                                <article class="service-box col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                                    <figure class="icon img-circle">
+                                        <span class="fa fa-wrench"></span>
+                                    </figure>
+                                    <div class="description">
+                                        <h3><a href="services">บริการติดตั้ง โครงหลังคา...</a></h3>
+                                        <div class="content">
+                                            <p>เป็นผู้ให้บริการติดตั้งงานโครงหลังคา เชิงชายและให้บริการติดตั้งงาน Mockup office...</p>
+                                            <a href="services">เพิ่มเติม...</a>
+                                        </div>
+                                    </div>
+                                </article>
+                                <div class="clearfix"></div>
+                            </div>
 
                         </section>
                         <!--About Us End-->

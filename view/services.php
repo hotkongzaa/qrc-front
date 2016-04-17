@@ -63,7 +63,10 @@
                                                     </li>
                                                     <li class="dropdown">
                                                         <a href="clients" class="dropdown-toggle">Clients</a>
-                                                    </li>                                            
+                                                    </li>   
+                                                    <li>
+                                                        <a href="gallery" class="dropdown-toggle">Gallery</a>
+                                                    </li>
                                                     <li><a href="contact-us">Contact Us</a></li>
                                                 </ul>
                                                 <div class="clearfix"></div>
