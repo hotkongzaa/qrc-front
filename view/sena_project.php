@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>QRC | Smile Land</title>
+        <title>QRC | Sena</title>
         <!-- Stylesheets -->
         <?php include '../include/include_css.php'; ?>
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -97,8 +97,8 @@
                 <div class="page-title">
                     <div class="auto-container">
                         <div class="row clearfix">
-                            <div class="col-md-6 col-sm-6 col-xs-12 pull-left"><h1>สมายแลนด์</h1></div>
-                            <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="main">Home</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="project">Project</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="#">Smile Land Project</a></div>
+                            <div class="col-md-6 col-sm-6 col-xs-12 pull-left"><h1>Sena</h1></div>
+                            <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="main">Home</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="project">Project</a>&ensp;<span class="fa fa-angle-right"></span>&ensp;<a href="#">Sena Project</a></div>
                         </div>
                     </div>
                 </div>
@@ -131,8 +131,8 @@
                                     <div class="tab-content">
                                         <figure class="tab collapsed" id="image-one">
                                             <div class="image">
-                                                <img src="../assets/images/project/logo_smileland_400x220.jpg" alt="">
-                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="../assets/images/project/logo_smileland_400x220.jpg" data-rel="prettyPhoto" title="Gallery Title" class="fa fa-camera"></a></div></div>
+                                                <img src="../assets/images/project/logo_sena_400x220.jpg" alt="">
+                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="../assets/images/project/logo_sena_400x220.jpg" data-rel="prettyPhoto" title="Gallery Title" class="fa fa-camera"></a></div></div>
                                             </div>
                                         </figure>
 
@@ -178,7 +178,7 @@
                                 <!--Right-->
                                 <div class="right col-md-12 col-sm-12 col-xs-12">
                                     <h3>ชื่อลูกค้า</h3>
-                                    <p class="li_span_font_size">: : สมายแลนด์</p>
+                                    <p class="li_span_font_size">: : Sena</p>
 
                                     <hr>
                                     <br>
@@ -189,9 +189,7 @@
                                             <!--p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                             <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p-->   
                                             <ul>
-                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>สมายแลนด์ บ้านแพ้ว</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>โชคฤทัย สวนส้ม</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
-                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>บ้านเดี่ยว (บางบ่อ)</strong> - ติดตั้งโครงหลังคาสำเร็จรูป</li>
+                                                <li class="li_span_font_size"><span class="fa fa-arrow-circle-right"></span> <strong>ยังไม่มีข้อมูล</strong></li>
                                             </ul>
                                             <style>
                                                 .li_span_font_size{

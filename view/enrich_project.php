@@ -55,11 +55,13 @@
                                                     <li><a href="about-us">About Us</a></li>
                                                     <li class="dropdown"><a href="services">Services</a>
                                                         <ul class="dropdown-menu" role="menu">
-                                                            <li><a href="services">งานด้านบริการ</a></li>
-                                                            <li><a href="services-sales">งานด้านการขาย</a></li>
+                                                            <li><a href="services">บริการติดตั้ง โครงหลังคา</a></li>
+                                                            <li><a href="services-sales">จำหน่ายวัสดุก่อสร้าง</a></li>
+                                                            <li><a href="nanohouse-services">บ้าน นาโน เฮ้าส์</a></li>
+                                                            <li><a href="general-services">รับเหมาก่อสร้างทั่วไป</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li class="current"><a href="project" class="dropdown-toggle">Project</a>
+                                                    <li class="current"><a href="clients" class="dropdown-toggle">Clients</a>
                                                     </li>
 
                                                     <li><a href="contact-us">Contact Us</a></li>
@@ -129,8 +131,8 @@
                                     <div class="tab-content">
                                         <figure class="tab collapsed" id="image-one">
                                             <div class="image">
-                                                <img src="../assets/images/resource/single-project-image-1.jpg" alt="">
-                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="../assets/images/resource/single-project-image-1.jpg" data-rel="prettyPhoto" title="Gallery Title" class="fa fa-camera"></a></div></div>
+                                                <img src="../assets/images/project/logo_enrich_400x220.jpg" alt="">
+                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="../assets/images/project/logo_enrich_400x220.jpg" data-rel="prettyPhoto" title="Gallery Title" class="fa fa-camera"></a></div></div>
                                             </div>
                                         </figure>
 
@@ -195,9 +197,9 @@
                                                 }
                                             </style>									
                                         </div>
-                                        <div class="col-md-5 col-sm-5 col-xs-12">
+<!--                                        <div class="col-md-5 col-sm-5 col-xs-12">
                                             <img class="img-responsive" src="../assets/images/resource/single-project-image-5.jpg" alt="" title="">
-                                        </div>
+                                        </div>-->
                                     </div>
 
                                 </div>

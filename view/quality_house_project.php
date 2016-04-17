@@ -131,8 +131,8 @@
                                     <div class="tab-content">
                                         <figure class="tab collapsed" id="image-one">
                                             <div class="image">
-                                                <img src="../assets/images/resource/single-project-image-1.jpg" alt="">
-                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="../assets/images/resource/single-project-image-1.jpg" data-rel="prettyPhoto" title="Gallery Title" class="fa fa-camera"></a></div></div>
+                                                <img src="../assets/images/project/logo_qhouse_400x220.jpg" alt="">
+                                                <div class="overlay anim-5-all"><div class="link-icon"><a href="../assets/images/project/logo_qhouse_400x220.jpg" data-rel="prettyPhoto" title="Gallery Title" class="fa fa-camera"></a></div></div>
                                             </div>
                                         </figure>
 
@@ -208,9 +208,9 @@
                                                 }
                                             </style>									
                                         </div>
-                                        <div class="col-md-5 col-sm-5 col-xs-12">
+<!--                                        <div class="col-md-5 col-sm-5 col-xs-12">
                                             <img class="img-responsive" src="../assets/images/resource/single-project-image-5.jpg" alt="" title="">
-                                        </div>
+                                        </div>-->
                                     </div>
 
                                 </div>
