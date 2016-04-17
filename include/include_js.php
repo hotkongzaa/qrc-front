@@ -12,3 +12,4 @@
 <script src="../assets/js/googlemaps.js"></script>
 <script src="../assets/js/script.js"></script>
 <script src="../assets/js/unitegallery.min.js"></script>
+<script src="../assets/js/ug-theme-grid.js"></script>
